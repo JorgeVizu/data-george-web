@@ -1,0 +1,320 @@
+{% extends "base.html" %}
+
+{% block title %}{{ _("Proyectos") }} | DATA GEORGE{% endblock %}
+
+{% block meta_description %}
+{{ _("Proyectos de analítica, dashboards y automatización orientados a mejorar rentabilidad, control y toma de decisiones en pequeñas y medianas empresas.") }}
+{% endblock %}
+
+{% block content %}
+
+<!-- HERO -->
+<section class="p-4 p-md-5 bg-light rounded-4 border">
+  <div class="row align-items-center g-4">
+    <div class="col-lg-8">
+      <h1 class="display-6 fw-bold">{{ _("Proyectos") }}</h1>
+      <p class="lead mt-3 mb-0">
+        {{ _("Ejemplos del tipo de soluciones que desarrollo para convertir datos en herramientas útiles para el negocio y la toma de decisiones.") }}
+      </p>
+    </div>
+    <div class="col-lg-4 text-lg-end">
+      <a class="btn btn-primary" href="{{ url_for('main.contacto', lang=lang) }}">
+        {{ _("Hablar sobre tu caso") }}
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- CASO PRINCIPAL -->
+<section class="mt-4">
+  <article class="card border-0 shadow-sm">
+    <div class="card-body p-4 p-md-5">
+
+      <div class="d-flex flex-wrap align-items-center gap-2 mb-3">
+        <span class="badge text-bg-light border">{{ _("Caso práctico") }}</span>
+        <span class="badge text-bg-light border">{{ _("Dashboard comercial") }}</span>
+        <span class="badge text-bg-light border">{{ _("Análisis de rentabilidad") }}</span>
+      </div>
+
+      <div class="row g-4 align-items-start mb-4">
+        <div class="col-lg-8">
+          <h2 class="h3 fw-bold mb-3">{{ _("Dashboard comercial para una distribuidora B2B") }}</h2>
+          <p class="text-muted mb-0">
+            {{ _("Ejemplo de análisis orientado a entender ventas, costes, márgenes, evolución mensual y rentabilidad por cliente y producto.") }}
+          </p>
+        </div>
+
+        <div class="col-lg-4">
+          <div class="bg-light border rounded-4 p-3 h-100">
+            <div class="small text-muted mb-2">{{ _("Objetivo del proyecto") }}</div>
+            <div class="fw-semibold mb-3">
+              {{ _("Transformar datos dispersos en una herramienta clara para controlar rentabilidad, detectar oportunidades y apoyar decisiones comerciales.") }}
+            </div>
+            <div class="small text-muted">
+              {{ _("Enfoque: datos útiles, lectura clara y decisiones accionables.") }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- VÍDEO DEMO -->
+      <div class="bg-light border rounded-4 p-4 mb-4">
+        <div class="text-center mb-3">
+          <div class="fw-bold mb-2">{{ _("Vista de ejemplo del dashboard") }}</div>
+          <p class="text-muted small mb-2">
+            {{ _("Visualización real del dashboard navegando por distintas vistas y análisis.") }}
+          </p>
+          <div class="small text-muted">
+            {{ _("Demo real de un dashboard desarrollado para un entorno empresarial") }}
+          </div>
+        </div>
+
+        <video
+          class="w-100 rounded-4 border shadow-sm"
+          autoplay
+          muted
+          loop
+          playsinline
+          preload="metadata"
+          style="max-height: 620px; background: #000;"
+        >
+          <source src="{{ url_for('static', filename='video/demo-dashboard.mp4') }}" type="video/mp4">
+          {{ _("Tu navegador no soporta vídeo HTML5.") }}
+        </video>
+
+        <div class="small text-muted mt-2 text-center">
+          {{ _("Ejemplo orientativo. Cada dashboard se adapta a la realidad de cada negocio.") }}
+        </div>
+      </div>
+
+      <!-- RESUMEN EJECUTIVO -->
+      <div class="row g-3 mb-4">
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 h-100 text-center">
+            <div class="fw-bold mb-2">{{ _("Problema detectado") }}</div>
+            <div class="small text-muted">
+              {{ _("Datos existentes, pero sin una visión útil para priorizar decisiones.") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 h-100 text-center">
+            <div class="fw-bold mb-2">{{ _("Solución aplicada") }}</div>
+            <div class="small text-muted">
+              {{ _("Dashboard con KPIs, análisis de rentabilidad y seguimiento operativo.") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 h-100 text-center">
+            <div class="fw-bold mb-2">{{ _("Valor generado") }}</div>
+            <div class="small text-muted">
+              {{ _("Más claridad, más control y decisiones más rápidas y fundamentadas.") }}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- PROBLEMA / SOLUCIÓN / VALOR -->
+      <div class="row g-4">
+
+        <div class="col-md-4">
+          <section class="border rounded-3 p-3 h-100">
+            <h3 class="h6 fw-bold">{{ _("Problema") }}</h3>
+            <p class="text-muted mb-0">
+              {{ _("La empresa tiene datos, pero no una visión clara de qué clientes y productos aportan realmente valor al negocio.") }}
+            </p>
+          </section>
+        </div>
+
+        <div class="col-md-4">
+          <section class="border rounded-3 p-3 h-100">
+            <h3 class="h6 fw-bold">{{ _("Solución") }}</h3>
+            <p class="text-muted mb-0">
+              {{ _("Se construye un dashboard con KPIs, evolución temporal, análisis por cliente, producto y zona, y detección de bajo margen.") }}
+            </p>
+          </section>
+        </div>
+
+        <div class="col-md-4">
+          <section class="border rounded-3 p-3 h-100">
+            <h3 class="h6 fw-bold">{{ _("Valor para el negocio") }}</h3>
+            <p class="text-muted mb-0">
+              {{ _("Permite detectar pérdidas ocultas, priorizar acciones comerciales y tomar decisiones con más criterio y rapidez.") }}
+            </p>
+          </section>
+        </div>
+
+      </div>
+
+      <hr class="my-4">
+
+      <!-- ANTES / DESPUÉS -->
+      <div class="row g-4">
+
+        <div class="col-md-6">
+          <div class="border rounded-3 p-3 h-100 bg-light">
+            <div class="fw-bold mb-2">❌ {{ _("Antes") }}</div>
+            <ul class="small text-muted mb-0">
+              <li>{{ _("Datos dispersos en múltiples archivos") }}</li>
+              <li>{{ _("Sin visibilidad clara de márgenes reales") }}</li>
+              <li>{{ _("Decisiones basadas en intuición") }}</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+          <div class="border rounded-3 p-3 h-100">
+            <div class="fw-bold mb-2">✅ {{ _("Después") }}</div>
+            <ul class="small text-muted mb-0">
+              <li>{{ _("Visión clara del negocio en un dashboard") }}</li>
+              <li>{{ _("Identificación de clientes y productos rentables") }}</li>
+              <li>{{ _("Decisiones más rápidas y basadas en datos") }}</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+      <hr class="my-4">
+
+      <!-- QUÉ PERMITE ANALIZAR -->
+      <div class="row g-4 align-items-start">
+        <div class="col-lg-7">
+          <h3 class="h5 mb-3">{{ _("Qué permite analizar") }}</h3>
+
+          <div class="row g-3">
+            <div class="col-sm-6">
+              <div class="border rounded-3 p-3 h-100">{{ _("Ventas, costes y margen") }}</div>
+            </div>
+            <div class="col-sm-6">
+              <div class="border rounded-3 p-3 h-100">{{ _("Evolución mensual del negocio") }}</div>
+            </div>
+            <div class="col-sm-6">
+              <div class="border rounded-3 p-3 h-100">{{ _("Clientes con más volumen y más rentabilidad") }}</div>
+            </div>
+            <div class="col-sm-6">
+              <div class="border rounded-3 p-3 h-100">{{ _("Productos rentables y no rentables") }}</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-5">
+          <div class="bg-light border rounded-4 p-4 h-100">
+            <h3 class="h5 mb-3">{{ _("Qué aporta este enfoque") }}</h3>
+            <p class="text-muted mb-0">
+              {{ _("El objetivo no es solo visualizar datos, sino detectar dónde se pierde rentabilidad, qué clientes o productos conviene revisar y qué decisiones pueden generar una mejora real en el negocio.") }}
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <hr class="my-4">
+
+      <!-- IMPACTO -->
+      <h3 class="h5 mb-3">{{ _("Impacto en el negocio") }}</h3>
+
+      <div class="row g-3">
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 text-center h-100">
+            <div class="fw-bold mb-2">+{{ _("Claridad") }}</div>
+            <div class="small text-muted">
+              {{ _("Mejor comprensión de resultados y márgenes") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 text-center h-100">
+            <div class="fw-bold mb-2">+{{ _("Control") }}</div>
+            <div class="small text-muted">
+              {{ _("Seguimiento continuo del negocio") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 text-center h-100">
+            <div class="fw-bold mb-2">+{{ _("Velocidad") }}</div>
+            <div class="small text-muted">
+              {{ _("Decisiones más rápidas y fundamentadas") }}
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <hr class="my-4">
+
+      <!-- RESULTADOS -->
+      <h3 class="h5 mb-3">{{ _("Resultados obtenidos en proyectos similares") }}</h3>
+
+      <div class="row g-3">
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 text-center h-100">
+            <div class="display-6 fw-bold">+15%</div>
+            <div class="small text-muted">
+              {{ _("Mejora en identificación de rentabilidad por cliente") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 text-center h-100">
+            <div class="display-6 fw-bold">-30%</div>
+            <div class="small text-muted">
+              {{ _("Reducción de tiempo en reporting y tareas manuales") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="border rounded-3 p-3 text-center h-100">
+            <div class="display-6 fw-bold">+100%</div>
+            <div class="small text-muted">
+              {{ _("Visibilidad sobre márgenes y resultados del negocio") }}
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <hr class="my-4">
+
+      <!-- CIERRE CONSULTIVO -->
+      <div class="bg-light border rounded-4 p-4">
+        <div class="row g-4 align-items-center">
+          <div class="col-lg-8">
+            <h3 class="h5 mb-2">{{ _("Qué tipo de valor busco generar") }}</h3>
+            <p class="text-muted mb-0">
+              {{ _("Cada proyecto busca convertir datos en una herramienta útil para decidir mejor, ahorrar tiempo y detectar oportunidades reales de mejora en el negocio.") }}
+            </p>
+          </div>
+          <div class="col-lg-4 text-lg-end">
+            <a class="btn btn-outline-secondary" href="{{ url_for('main.servicios', lang=lang) }}">
+              {{ _("Ver servicios") }}
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </article>
+</section>
+
+<!-- CTA FINAL -->
+<section class="mt-4 p-4 p-md-5 bg-white rounded-4 border shadow-sm text-center">
+  <h2 class="h4 mb-3">{{ _("¿Quieres algo así en tu empresa?") }}</h2>
+  <p class="text-muted mb-4">
+    {{ _("Puedo ayudarte a construir una solución similar adaptada a tu negocio, tus datos y tu forma de trabajar.") }}
+  </p>
+  <a class="btn btn-primary btn-lg" href="{{ url_for('main.contacto', lang=lang) }}">
+    {{ _("Hablar sobre tu caso") }}
+  </a>
+</section>
+
+{% endblock %}

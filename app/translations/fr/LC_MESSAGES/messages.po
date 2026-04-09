@@ -1,0 +1,716 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DATA GEORGE\n"
+"Report-Msgid-Bugs-To: jorgevizi@gmail.com\n"
+"POT-Creation-Date: 2026-04-09 00:00+0200\n"
+"PO-Revision-Date: 2026-04-09 00:00+0200\n"
+"Last-Translator: Jorge Vizuete Romero <jorgevizu@gmail.com>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+msgid "DATA GEORGE | Data & Process Consulting"
+msgstr "DATA GEORGE | Conseil en données et processus"
+
+msgid "Data & Process Consulting"
+msgstr "Conseil en données et processus"
+
+msgid "Consultoría de datos, automatización, BI y mejora de procesos para pequeñas y medianas empresas."
+msgstr "Conseil en données, automatisation, BI et amélioration des processus pour les petites et moyennes entreprises."
+
+msgid "Navegación principal"
+msgstr "Navigation principale"
+
+msgid "Logo de DATA GEORGE"
+msgstr "Logo de DATA GEORGE"
+
+msgid "Abrir menú de navegación"
+msgstr "Ouvrir le menu de navigation"
+
+msgid "Seleccionar idioma"
+msgstr "Sélectionner la langue"
+
+msgid "Mensajes del sistema"
+msgstr "Messages du système"
+
+msgid "Servicios"
+msgstr "Services"
+
+msgid "Proyectos"
+msgstr "Projets"
+
+msgid "Sobre mí"
+msgstr "À propos de moi"
+
+msgid "Contacto"
+msgstr "Contact"
+
+msgid "ES/EN/FR · Data · BI · Procesos"
+msgstr "ES/EN/FR · Data · BI · Processus"
+
+msgid "Inicio"
+msgstr "Accueil"
+
+msgid "Consultoría de datos para pequeñas empresas: dashboards, automatización y análisis para mejorar decisiones, ahorrar tiempo y ganar claridad sobre el negocio."
+msgstr "Conseil en données pour les petites entreprises : tableaux de bord, automatisation et analyse pour améliorer les décisions, gagner du temps et mieux comprendre l’activité."
+
+msgid "Consultoría de datos y procesos para pequeñas empresas"
+msgstr "Conseil en données et processus pour les petites entreprises"
+
+msgid "Entiende tu negocio con datos claros y toma mejores decisiones"
+msgstr "Comprenez votre activité grâce à des données claires et prenez de meilleures décisions"
+
+msgid "Te ayudo a transformar datos dispersos en información útil para controlar ventas, costes y procesos, ahorrar tiempo y mejorar resultados."
+msgstr "Je vous aide à transformer des données dispersées en informations utiles pour piloter les ventes, les coûts et les processus, gagner du temps et améliorer les résultats."
+
+msgid "Hablar sobre tu caso"
+msgstr "Parler de votre situation"
+
+msgid "Ver un caso práctico"
+msgstr "Voir un cas pratique"
+
+msgid "Más claridad"
+msgstr "Plus de clarté"
+
+msgid "Entiende qué está pasando en tu negocio sin depender de hojas caóticas."
+msgstr "Comprenez ce qui se passe dans votre entreprise sans dépendre de feuilles de calcul désordonnées."
+
+msgid "Menos tiempo perdido"
+msgstr "Moins de temps perdu"
+
+msgid "Automatiza tareas repetitivas y reduce trabajo manual."
+msgstr "Automatisez les tâches répétitives et réduisez le travail manuel."
+
+msgid "Mejores decisiones"
+msgstr "Meilleures décisions"
+
+msgid "Detecta oportunidades, problemas y prioridades de forma práctica."
+msgstr "Identifiez de manière concrète les opportunités, les problèmes et les priorités."
+
+msgid "Qué puedo ayudarte a resolver"
+msgstr "Ce que je peux vous aider à résoudre"
+
+msgid "Saber qué clientes, productos o zonas aportan más valor"
+msgstr "Savoir quels clients, produits ou zones apportent le plus de valeur"
+
+msgid "Ver con claridad ventas, costes y márgenes reales"
+msgstr "Voir clairement les ventes, les coûts et les marges réelles"
+
+msgid "Eliminar tareas manuales que consumen tiempo"
+msgstr "Éliminer les tâches manuelles qui prennent du temps"
+
+msgid "Convertir datos en decisiones útiles para el día a día"
+msgstr "Transformer les données en décisions utiles au quotidien"
+
+msgid "Trabajar con un enfoque cercano, claro y adaptado a tu realidad"
+msgstr "Travailler avec une approche claire, proche et adaptée à votre réalité"
+
+msgid "Qué puedes conseguir trabajando conmigo"
+msgstr "Ce que vous pouvez obtenir en travaillant avec moi"
+
+msgid "Control del negocio"
+msgstr "Pilotage de l’activité"
+
+msgid "Sabrás qué está pasando realmente en ventas, costes y márgenes."
+msgstr "Vous saurez ce qui se passe réellement au niveau des ventes, des coûts et des marges."
+
+msgid "Ahorro de tiempo"
+msgstr "Gain de temps"
+
+msgid "Menos Excel manual, menos errores y procesos más eficientes."
+msgstr "Moins d’Excel manuel, moins d’erreurs et des processus plus efficaces."
+
+msgid "Decisiones basadas en datos reales, no en intuición."
+msgstr "Des décisions fondées sur des données réelles, pas sur l’intuition."
+
+msgid "No se trata solo de tener datos"
+msgstr "Il ne s’agit pas seulement d’avoir des données"
+
+msgid "Se trata de entender qué significan, dónde está el problema y qué decisiones conviene tomar para mejorar resultados y trabajar con más claridad."
+msgstr "Il s’agit de comprendre ce qu’elles signifient, où se situe le problème et quelles décisions il convient de prendre pour améliorer les résultats et travailler avec plus de clarté."
+
+msgid "Ver ejemplos"
+msgstr "Voir des exemples"
+
+msgid "Un enfoque práctico y adaptado a cada negocio"
+msgstr "Une approche pratique et adaptée à chaque activité"
+
+msgid "No se trata de complicar con más herramientas o más informes. Se trata de tener información clara, procesos más ordenados y una forma más útil de tomar decisiones."
+msgstr "Il ne s’agit pas de compliquer les choses avec plus d’outils ou plus de rapports. Il s’agit d’avoir des informations claires, des processus mieux organisés et une manière plus utile de prendre des décisions."
+
+msgid "Ver servicios"
+msgstr "Voir les services"
+
+msgid "¿Hablamos sobre tu negocio?"
+msgstr "On parle de votre activité ?"
+
+msgid "Cuéntame tu caso y vemos de forma clara y práctica cómo puedes mejorar tus datos, procesos y decisiones."
+msgstr "Expliquez-moi votre situation et voyons, de manière claire et concrète, comment vous pouvez améliorer vos données, vos processus et vos décisions."
+
+msgid "¿Hablamos?"
+msgstr "On en parle ?"
+
+msgid "Si quieres ordenar mejor tus datos, automatizar tareas o tener más claridad sobre tu negocio, estaré encantado de escuchar tu caso."
+msgstr "Si vous souhaitez mieux organiser vos données, automatiser des tâches ou avoir une vision plus claire de votre activité, je serai ravi d’écouter votre situation."
+
+msgid "Contactar"
+msgstr "Contacter"
+
+msgid "Servicios de consultoría de datos, automatización, análisis financiero, procesos, atención al cliente y marketing para pequeñas y medianas empresas."
+msgstr "Services de conseil en données, automatisation, analyse financière, processus, service client et marketing pour les petites et moyennes entreprises."
+
+msgid "Soluciones prácticas para entender mejor tu negocio y mejorar cómo trabajas"
+msgstr "Des solutions pratiques pour mieux comprendre votre activité et améliorer votre façon de travailler"
+
+msgid "Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones apoyadas en datos."
+msgstr "Je travaille avec des petites et moyennes entreprises qui recherchent plus de clarté, moins de tâches manuelles et de meilleures décisions appuyées sur les données."
+
+msgid "Dashboards de negocio"
+msgstr "Tableaux de bord d’entreprise"
+
+msgid "Diseño cuadros de mando para que puedas ver de forma clara lo que está ocurriendo en tu empresa y actuar con más rapidez."
+msgstr "Je conçois des tableaux de bord pour que vous puissiez voir clairement ce qui se passe dans votre entreprise et agir plus rapidement."
+
+msgid "Ventas, costes y márgenes en un solo lugar"
+msgstr "Ventes, coûts et marges en un seul endroit"
+
+msgid "Análisis por cliente, producto, zona o periodo"
+msgstr "Analyse par client, produit, zone ou période"
+
+msgid "KPIs claros para seguimiento y control"
+msgstr "Des KPI clairs pour le suivi et le pilotage"
+
+msgid "Automatización de tareas"
+msgstr "Automatisation des tâches"
+
+msgid "Automatizo tareas repetitivas para ahorrar tiempo, reducir errores y mejorar la consistencia de la información."
+msgstr "J’automatise les tâches répétitives pour gagner du temps, réduire les erreurs et améliorer la cohérence de l’information."
+
+msgid "Automatización de reportes y consolidación de datos"
+msgstr "Automatisation des rapports et consolidation des données"
+
+msgid "Procesos con Excel, Python y bases de datos"
+msgstr "Processus avec Excel, Python et bases de données"
+
+msgid "Integración de información procedente de distintas fuentes"
+msgstr "Intégration d’informations provenant de différentes sources"
+
+msgid "Análisis y mejora de procesos"
+msgstr "Analyse et amélioration des processus"
+
+msgid "Analizo cómo fluye la información y cómo funciona la operativa para detectar ineficiencias y proponer mejoras útiles."
+msgstr "J’analyse la circulation de l’information et le fonctionnement opérationnel pour détecter les inefficacités et proposer des améliorations utiles."
+
+msgid "Detección de cuellos de botella e ineficiencias"
+msgstr "Détection des goulets d’étranglement et des inefficacités"
+
+msgid "Apoyo a decisiones con datos claros"
+msgstr "Aide à la décision avec des données claires"
+
+msgid "Soluciones adaptadas a la realidad del negocio"
+msgstr "Des solutions adaptées à la réalité de l’entreprise"
+
+msgid "Análisis financiero y control de costes"
+msgstr "Analyse financière et contrôle des coûts"
+
+msgid "Transformo datos financieros y operativos en información útil para controlar costes, seguir resultados y entender mejor la rentabilidad."
+msgstr "Je transforme les données financières et opérationnelles en informations utiles pour contrôler les coûts, suivre les résultats et mieux comprendre la rentabilité."
+
+msgid "Reparto de nóminas por proyecto"
+msgstr "Répartition des salaires par projet"
+
+msgid "Control de costes e imputaciones"
+msgstr "Contrôle des coûts et imputations"
+
+msgid "Seguimiento financiero y reporting interno"
+msgstr "Suivi financier et reporting interne"
+
+msgid "Análisis de rentabilidad por cliente, producto o proyecto"
+msgstr "Analyse de rentabilité par client, produit ou projet"
+
+msgid "Analítica de atención al cliente"
+msgstr "Analyse du service client"
+
+msgid "Analizo datos de atención al cliente para entender mejor la carga de trabajo, la calidad del servicio y las oportunidades de mejora."
+msgstr "J’analyse les données du service client pour mieux comprendre la charge de travail, la qualité du service et les opportunités d’amélioration."
+
+msgid "Análisis de llamadas de centralita"
+msgstr "Analyse des appels du standard"
+
+msgid "Volumen de llamadas, tiempos y rendimiento"
+msgstr "Volume d’appels, délais et performance"
+
+msgid "Análisis de encuestas y satisfacción"
+msgstr "Analyse des enquêtes et de la satisfaction"
+
+msgid "Detección de oportunidades de mejora en la atención"
+msgstr "Détection des opportunités d’amélioration du service"
+
+msgid "Analítica comercial y marketing"
+msgstr "Analyse commerciale et marketing"
+
+msgid "Analizo campañas y acciones comerciales para ayudarte a entender resultados, comparar canales y tomar mejores decisiones de inversión."
+msgstr "J’analyse les campagnes et les actions commerciales pour vous aider à comprendre les résultats, comparer les canaux et prendre de meilleures décisions d’investissement."
+
+msgid "Análisis de publicidad en apps y banners"
+msgstr "Analyse de la publicité dans les applications et les bannières"
+
+msgid "Seguimiento de resultados y rendimiento"
+msgstr "Suivi des résultats et de la performance"
+
+msgid "Comparativa entre campañas, canales o formatos"
+msgstr "Comparaison entre campagnes, canaux ou formats"
+
+msgid "Apoyo a decisiones comerciales y de marketing"
+msgstr "Support aux décisions commerciales et marketing"
+
+msgid "Cómo trabajo"
+msgstr "Comment je travaille"
+
+msgid "1. Entender tu caso"
+msgstr "1. Comprendre votre situation"
+
+msgid "Escucho cómo funciona tu negocio, qué datos tienes y qué necesitas mejorar."
+msgstr "J’écoute le fonctionnement de votre activité, les données dont vous disposez et ce que vous avez besoin d’améliorer."
+
+msgid "2. Diseñar una solución útil"
+msgstr "2. Concevoir une solution utile"
+
+msgid "Planteo una solución clara, práctica y ajustada a tu realidad, sin complejidad innecesaria."
+msgstr "Je propose une solution claire, pratique et adaptée à votre réalité, sans complexité inutile."
+
+msgid "3. Convertirlo en valor"
+msgstr "3. Le transformer en valeur"
+
+msgid "El objetivo no es solo ver datos, sino ayudarte a ahorrar tiempo y tomar mejores decisiones."
+msgstr "L’objectif n’est pas seulement de voir des données, mais de vous aider à gagner du temps et à prendre de meilleures décisions."
+
+msgid "Un servicio cercano y adaptado"
+msgstr "Un service proche et adapté"
+
+msgid "Cada empresa es distinta. Mi objetivo es ofrecer soluciones simples, útiles y ajustadas a la realidad de cada negocio, desde dashboards y automatización hasta análisis financieros, operativos o comerciales."
+msgstr "Chaque entreprise est différente. Mon objectif est de proposer des solutions simples, utiles et adaptées à la réalité de chaque activité, des tableaux de bord et de l’automatisation jusqu’aux analyses financières, opérationnelles ou commerciales."
+
+msgid "Cuéntame tu caso y vemos cómo puedo ayudarte a mejorar tu negocio con datos y procesos."
+msgstr "Expliquez-moi votre situation et voyons comment je peux vous aider à améliorer votre activité grâce aux données et aux processus."
+
+msgid "Proyectos de analítica, dashboards y automatización orientados a mejorar rentabilidad, control y toma de decisiones en pequeñas y medianas empresas."
+msgstr "Projets d’analytique, de tableaux de bord et d’automatisation visant à améliorer la rentabilité, le pilotage et la prise de décision dans les petites et moyennes entreprises."
+
+msgid "Ejemplos del tipo de soluciones que desarrollo para convertir datos en herramientas útiles para el negocio y la toma de decisiones."
+msgstr "Exemples du type de solutions que je développe pour transformer les données en outils utiles pour l’activité et la prise de décision."
+
+msgid "Caso práctico"
+msgstr "Cas pratique"
+
+msgid "Dashboard comercial para una distribuidora B2B"
+msgstr "Tableau de bord commercial pour un distributeur B2B"
+
+msgid "Ejemplo de análisis orientado a entender ventas, costes, márgenes, evolución mensual y rentabilidad por cliente y producto."
+msgstr "Exemple d’analyse visant à comprendre les ventes, les coûts, les marges, l’évolution mensuelle et la rentabilité par client et par produit."
+
+msgid "Problema"
+msgstr "Problème"
+
+msgid "La empresa tiene datos, pero no una visión clara de qué clientes y productos aportan realmente valor al negocio."
+msgstr "L’entreprise dispose de données, mais n’a pas une vision claire des clients et des produits qui apportent réellement de la valeur à l’activité."
+
+msgid "Solución"
+msgstr "Solution"
+
+msgid "Se construye un dashboard con KPIs, evolución temporal, análisis por cliente, producto y zona, y detección de bajo margen."
+msgstr "Un tableau de bord est mis en place avec des KPI, une évolution dans le temps, une analyse par client, produit et zone, ainsi que la détection des faibles marges."
+
+msgid "Valor para el negocio"
+msgstr "Valeur pour l’entreprise"
+
+msgid "Permite detectar pérdidas ocultas, priorizar acciones comerciales y tomar decisiones con más criterio y rapidez."
+msgstr "Cela permet de détecter des pertes cachées, de prioriser les actions commerciales et de prendre des décisions avec plus de pertinence et de rapidité."
+
+msgid "Qué permite analizar"
+msgstr "Ce que cela permet d’analyser"
+
+msgid "Ventas, costes y margen"
+msgstr "Ventes, coûts et marge"
+
+msgid "Evolución mensual del negocio"
+msgstr "Évolution mensuelle de l’activité"
+
+msgid "Clientes con más volumen y más rentabilidad"
+msgstr "Clients avec le plus de volume et le plus de rentabilité"
+
+msgid "Productos rentables y no rentables"
+msgstr "Produits rentables et non rentables"
+
+msgid "Qué aporta este enfoque"
+msgstr "Ce que cette approche apporte"
+
+msgid "El objetivo no es solo visualizar datos, sino detectar dónde se pierde rentabilidad, qué clientes o productos conviene revisar y qué decisiones pueden generar una mejora real en el negocio."
+msgstr "L’objectif n’est pas seulement de visualiser des données, mais de détecter où la rentabilité se perd, quels clients ou produits méritent d’être revus et quelles décisions peuvent générer une amélioration réelle de l’activité."
+
+msgid "¿Quieres aplicar algo así en tu empresa?"
+msgstr "Souhaitez-vous appliquer quelque chose comme cela dans votre entreprise ?"
+
+msgid "Puedo ayudarte a transformar tus datos en una herramienta útil para controlar mejor tu negocio."
+msgstr "Je peux vous aider à transformer vos données en un outil utile pour mieux piloter votre activité."
+
+msgid "Perfil profesional de Jorge Vizuete Romero: análisis de datos, automatización, BI y mejora de procesos con enfoque práctico y visión de negocio."
+msgstr "Profil professionnel de Jorge Vizuete Romero : analyse de données, automatisation, BI et amélioration des processus avec une approche pratique et une vision business."
+
+msgid "Una combinación de análisis de datos, mejora de procesos y experiencia en entornos reales de trabajo."
+msgstr "Une combinaison d’analyse de données, d’amélioration des processus et d’expérience dans des environnements de travail réels."
+
+msgid "Soy Jorge Vizuete Romero y trabajo en consultoría de datos y mejora de procesos, con experiencia en análisis, automatización y entornos operativos."
+msgstr "Je suis Jorge Vizuete Romero et je travaille dans le conseil en données et en amélioration des processus, avec de l’expérience en analyse, automatisation et environnements opérationnels."
+
+msgid "A lo largo de mi trayectoria he trabajado con datos, procesos y herramientas de análisis, pero también en contextos reales de empresa, lo que me permite entender no solo la información, sino también la operativa y las necesidades del día a día."
+msgstr "Au cours de mon parcours, j’ai travaillé avec les données, les processus et les outils d’analyse, mais aussi dans des contextes réels d’entreprise, ce qui me permet de comprendre non seulement l’information, mais aussi l’opérationnel et les besoins du quotidien."
+
+msgid "A través de DATA GEORGE ayudo a pequeñas empresas a organizar mejor sus datos, automatizar tareas y convertir la información en decisiones más claras y útiles."
+msgstr "Avec DATA GEORGE, j’aide les petites entreprises à mieux organiser leurs données, automatiser leurs tâches et transformer l’information en décisions plus claires et plus utiles."
+
+msgid "Mi enfoque busca soluciones simples, prácticas y adaptadas a cada negocio. No se trata de complicar, sino de aportar claridad, eficiencia y utilidad real."
+msgstr "Mon approche recherche des solutions simples, pratiques et adaptées à chaque activité. Il ne s’agit pas de compliquer, mais d’apporter de la clarté, de l’efficacité et une utilité réelle."
+
+msgid "Tecnologías y herramientas"
+msgstr "Technologies et outils"
+
+msgid "Qué valoro en mi trabajo"
+msgstr "Ce que je valorise dans mon travail"
+
+msgid "Claridad frente a complejidad innecesaria"
+msgstr "La clarté plutôt que la complexité inutile"
+
+msgid "Soluciones útiles y aplicables"
+msgstr "Des solutions utiles et applicables"
+
+msgid "Cercanía en el trato"
+msgstr "Une relation proche et humaine"
+
+msgid "Visión de negocio además de visión técnica"
+msgstr "Une vision business en plus d’une vision technique"
+
+msgid "Cómo entiendo este trabajo"
+msgstr "Comment je conçois ce travail"
+
+msgid "Creo en una consultoría útil, cercana y orientada a resultados. Mi objetivo no es añadir complejidad, sino ayudarte a entender mejor tu negocio, ahorrar tiempo y tomar decisiones con más criterio."
+msgstr "Je crois en un conseil utile, proche et orienté résultats. Mon objectif n’est pas d’ajouter de la complexité, mais de vous aider à mieux comprendre votre activité, à gagner du temps et à prendre des décisions plus pertinentes."
+
+msgid "¿Quieres contarme tu caso?"
+msgstr "Souhaitez-vous me parler de votre situation ?"
+
+msgid "Estaré encantado de escuchar tus necesidades y ver cómo puedo ayudarte."
+msgstr "Je serai ravi d’écouter vos besoins et de voir comment je peux vous aider."
+
+msgid "Formulario de contacto para hablar sobre dashboards, automatización, análisis y mejora de procesos en tu empresa."
+msgstr "Formulaire de contact pour parler de tableaux de bord, d’automatisation, d’analyse et d’amélioration des processus dans votre entreprise."
+
+msgid "Cuéntame tu caso y vemos cómo puedo ayudarte a mejorar tu negocio con datos."
+msgstr "Expliquez-moi votre situation et voyons comment je peux vous aider à améliorer votre activité grâce aux données."
+
+msgid "Sin compromiso. Solo una primera conversación para entender tu situación y valorar si puedo ayudarte."
+msgstr "Sans engagement. Juste un premier échange pour comprendre votre situation et voir si je peux vous aider."
+
+msgid "Información básica"
+msgstr "Informations de base"
+
+msgid "Nombre"
+msgstr "Nom"
+
+msgid "Tu nombre"
+msgstr "Votre nom"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "tu@email.com"
+msgstr "votre@email.com"
+
+msgid "Empresa"
+msgstr "Entreprise"
+
+msgid "Nombre de tu empresa"
+msgstr "Nom de votre entreprise"
+
+msgid "Tipo de empresa"
+msgstr "Type d’entreprise"
+
+msgid "Tamaño de empresa"
+msgstr "Taille de l’entreprise"
+
+msgid "Nivel de urgencia"
+msgstr "Niveau d’urgence"
+
+msgid "Qué necesitas"
+msgstr "Ce dont vous avez besoin"
+
+msgid "Servicio principal de interés"
+msgstr "Service principal recherché"
+
+msgid "¿Qué necesitas?"
+msgstr "De quoi avez-vous besoin ?"
+
+msgid "¿Qué herramientas utilizas actualmente?"
+msgstr "Quels outils utilisez-vous actuellement ?"
+
+msgid "Archivo opcional"
+msgstr "Fichier optionnel"
+
+msgid "Puedes adjuntar un archivo si ayuda a entender mejor tu situación."
+msgstr "Vous pouvez joindre un fichier si cela aide à mieux comprendre votre situation."
+
+msgid "Cuéntame tu caso"
+msgstr "Expliquez-moi votre situation"
+
+msgid "Describe brevemente qué quieres mejorar, qué problema tienes o qué tipo de ayuda estás buscando."
+msgstr "Décrivez brièvement ce que vous souhaitez améliorer, le problème que vous rencontrez ou le type d’aide que vous recherchez."
+
+msgid "Responderé lo antes posible con una propuesta clara y realista según tu caso."
+msgstr "Je vous répondrai dès que possible avec une proposition claire et réaliste selon votre situation."
+
+msgid "Este campo es obligatorio."
+msgstr "Ce champ est obligatoire."
+
+msgid "Máximo 80 caracteres."
+msgstr "80 caractères maximum."
+
+msgid "Máximo 120 caracteres."
+msgstr "120 caractères maximum."
+
+msgid "Introduce un email válido."
+msgstr "Saisissez une adresse email valide."
+
+msgid "Selecciona una opción"
+msgstr "Sélectionnez une option"
+
+msgid "Industria"
+msgstr "Industrie"
+
+msgid "Retail / Comercio"
+msgstr "Retail / Commerce"
+
+msgid "Logística"
+msgstr "Logistique"
+
+msgid "Tecnología"
+msgstr "Technologie"
+
+msgid "Otro"
+msgstr "Autre"
+
+msgid "1-10 empleados"
+msgstr "1-10 employés"
+
+msgid "10-50 empleados"
+msgstr "10-50 employés"
+
+msgid "Más de 50 empleados"
+msgstr "Plus de 50 employés"
+
+msgid "Dashboard de negocio"
+msgstr "Tableau de bord d’entreprise"
+
+msgid "Otro / No lo tengo claro"
+msgstr "Autre / Je ne suis pas encore sûr"
+
+msgid "Dashboards / BI"
+msgstr "Tableaux de bord / BI"
+
+msgid "Análisis financiero"
+msgstr "Analyse financière"
+
+msgid "Control de costes"
+msgstr "Contrôle des coûts"
+
+msgid "Marketing / publicidad"
+msgstr "Marketing / publicité"
+
+msgid "Atención al cliente"
+msgstr "Service client"
+
+msgid "Procesos / operaciones"
+msgstr "Processus / opérations"
+
+msgid "Excel"
+msgstr "Excel"
+
+msgid "ERP / CRM"
+msgstr "ERP / CRM"
+
+msgid "SQL / Base de datos"
+msgstr "SQL / Base de données"
+
+msgid "Power BI / Tableau / similar"
+msgstr "Power BI / Tableau / similaire"
+
+msgid "Procesos manuales"
+msgstr "Processus manuels"
+
+msgid "No tengo un sistema claro"
+msgstr "Je n’ai pas de système clair"
+
+msgid "Solo estoy explorando opciones"
+msgstr "J’explore simplement les options"
+
+msgid "Quiero resolverlo en 1-3 meses"
+msgstr "Je souhaite le résoudre dans 1 à 3 mois"
+
+msgid "Es una necesidad urgente"
+msgstr "C’est un besoin urgent"
+
+msgid "Máximo 3000 caracteres."
+msgstr "3000 caractères maximum."
+
+msgid "Solo se permiten archivos CSV o Excel."
+msgstr "Seuls les fichiers CSV ou Excel sont autorisés."
+
+msgid "El archivo no puede superar 10 MB."
+msgstr "Le fichier ne peut pas dépasser 10 Mo."
+
+msgid "Enviar solicitud"
+msgstr "Envoyer la demande"
+
+msgid "Gracias"
+msgstr "Merci"
+
+msgid "Confirmación de envío del formulario de contacto de DATA GEORGE."
+msgstr "Confirmation de l’envoi du formulaire de contact de DATA GEORGE."
+
+msgid "Gracias por tu mensaje"
+msgstr "Merci pour votre message"
+
+msgid "He recibido tu consulta correctamente y te responderé lo antes posible."
+msgstr "J’ai bien reçu votre demande et je vous répondrai dès que possible."
+
+msgid "Mientras tanto, puedes seguir explorando mis servicios y ejemplos de trabajo."
+msgstr "En attendant, vous pouvez continuer à explorer mes services et mes exemples de travail."
+
+msgid "Volver al inicio"
+msgstr "Retour à l’accueil"
+
+msgid "¡Gracias! He recibido tu mensaje y te responderé lo antes posible."
+msgstr "Merci ! J’ai bien reçu votre message et je vous répondrai dès que possible."
+
+msgid "Ha ocurrido un problema al enviar el formulario. Inténtalo de nuevo en unos minutos."
+msgstr "Un problème est survenu lors de l’envoi du formulaire. Veuillez réessayer dans quelques minutes."
+
+msgid "Vista de ejemplo del dashboard"
+msgstr "Exemple de vue du tableau de bord"
+
+msgid "Aquí puedes incorporar una captura, mockup o imagen de tu dashboard para reforzar visualmente el caso."
+msgstr "Vous pouvez ajouter ici une capture, une maquette ou une image de votre tableau de bord pour renforcer visuellement le cas."
+
+msgid "Ejemplo de dashboard comercial"
+msgstr "Exemple de tableau de bord commercial"
+
+msgid "Espacio reservado para captura o visual de la demo"
+msgstr "Espace réservé pour une capture ou un visuel de la démo"
+
+msgid "Antes"
+msgstr "Avant"
+
+msgid "Después"
+msgstr "Après"
+
+msgid "Datos dispersos en múltiples archivos"
+msgstr "Données dispersées dans plusieurs fichiers"
+
+msgid "Sin visibilidad clara de márgenes reales"
+msgstr "Pas de visibilité claire sur les marges réelles"
+
+msgid "Decisiones basadas en intuición"
+msgstr "Décisions basées sur l’intuition"
+
+msgid "Visión clara del negocio en un dashboard"
+msgstr "Vision claire de l’activité dans un tableau de bord"
+
+msgid "Identificación de clientes y productos rentables"
+msgstr "Identification des clients et produits rentables"
+
+msgid "Decisiones más rápidas y basadas en datos"
+msgstr "Décisions plus rapides et fondées sur les données"
+
+msgid "Impacto en el negocio"
+msgstr "Impact sur l’activité"
+
+msgid "Claridad"
+msgstr "Clarté"
+
+msgid "Mejor comprensión de resultados y márgenes"
+msgstr "Meilleure compréhension des résultats et des marges"
+
+msgid "Control"
+msgstr "Pilotage"
+
+msgid "Seguimiento continuo del negocio"
+msgstr "Suivi continu de l’activité"
+
+msgid "Velocidad"
+msgstr "Rapidité"
+
+msgid "Decisiones más rápidas y fundamentadas"
+msgstr "Décisions plus rapides et mieux fondées"
+
+msgid "¿Quieres algo así en tu empresa?"
+msgstr "Souhaitez-vous quelque chose comme cela dans votre entreprise ?"
+
+msgid "Puedo ayudarte a construir una solución similar adaptada a tu negocio, tus datos y tu forma de trabajar."
+msgstr "Je peux vous aider à construire une solution similaire adaptée à votre activité, à vos données et à votre façon de travailler."
+
+msgid "Demo real de un dashboard desarrollado para un entorno empresarial"
+msgstr "Démo réelle d’un tableau de bord développé pour un environnement d’entreprise"
+
+msgid "Ejemplo orientativo. Cada dashboard se adapta a la realidad de cada negocio."
+msgstr "Exemple illustratif. Chaque tableau de bord est adapté à la réalité de chaque activité."
+
+msgid "Análisis de rentabilidad"
+msgstr "Analyse de rentabilité"
+
+msgid "Enfoque: datos útiles, lectura clara y decisiones accionables."
+msgstr "Approche : des données utiles, une lecture claire et des décisions actionnables."
+
+msgid "Demo real de un dashboard desarrollado para un entorno empresarial"
+msgstr "Démo réelle d’un tableau de bord développé pour un environnement d’entreprise"
+
+msgid "Ejemplo orientativo. Cada dashboard se adapta a la realidad de cada negocio."
+msgstr "Exemple illustratif. Chaque tableau de bord est adapté à la réalité de chaque activité."
+
+msgid "Problema detectado"
+msgstr "Problème détecté"
+
+msgid "Datos existentes, pero sin una visión útil para priorizar decisiones."
+msgstr "Des données existent, mais sans vision utile pour prioriser les décisions."
+
+msgid "Solución aplicada"
+msgstr "Solution appliquée"
+
+msgid "Dashboard con KPIs, análisis de rentabilidad y seguimiento operativo."
+msgstr "Tableau de bord avec KPI, analyse de rentabilité et suivi opérationnel."
+
+msgid "Valor generado"
+msgstr "Valeur générée"
+
+msgid "Más claridad, más control y decisiones más rápidas y fundamentadas."
+msgstr "Plus de clarté, plus de pilotage et des décisions plus rapides et mieux fondées."
+
+msgid "Resultados obtenidos en proyectos similares"
+msgstr "Résultats obtenus sur des projets similaires"
+
+msgid "Mejora en identificación de rentabilidad por cliente"
+msgstr "Amélioration de l’identification de la rentabilité par client"
+
+msgid "Reducción de tiempo en reporting y tareas manuales"
+msgstr "Réduction du temps consacré au reporting et aux tâches manuelles"
+
+msgid "Visibilidad sobre márgenes y resultados del negocio"
+msgstr "Visibilité sur les marges et les résultats de l’activité"
+
+msgid "Qué tipo de valor busco generar"
+msgstr "Quel type de valeur je cherche à générer"
+
+msgid "Cada proyecto busca convertir datos en una herramienta útil para decidir mejor, ahorrar tiempo y detectar oportunidades reales de mejora en el negocio."
+msgstr "Chaque projet vise à transformer les données en un outil utile pour mieux décider, gagner du temps et détecter de réelles opportunités d’amélioration de l’activité."

@@ -1,0 +1,443 @@
+# Translations template for PROJECT.
+# Copyright (C) 2026 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2026-04-07 19:58+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: app/templates/base.html:6
+msgid "DATA GEORGE | Data & Process Consulting"
+msgstr ""
+
+#: app/templates/base.html:20
+msgid "Data & Process Consulting"
+msgstr ""
+
+#: app/templates/base.html:33 app/templates/servicios.html:2
+msgid "Servicios"
+msgstr ""
+
+#: app/templates/base.html:39 app/templates/proyectos.html:2
+#: app/templates/proyectos.html:6
+msgid "Proyectos"
+msgstr ""
+
+#: app/templates/base.html:45 app/templates/sobre_mi.html:2
+#: app/templates/sobre_mi.html:6
+msgid "Sobre mí"
+msgstr ""
+
+#: app/templates/base.html:51 app/templates/contacto.html:2
+msgid "Contacto"
+msgstr ""
+
+#: app/templates/base.html:86
+msgid "ES/EN/FR · Data · BI · Procesos"
+msgstr ""
+
+#: app/templates/contacto.html:8 app/templates/home.html:96
+#: app/templates/servicios.html:130
+msgid "¿Hablamos?"
+msgstr ""
+
+#: app/templates/contacto.html:11 app/templates/servicios.html:132
+msgid ""
+"Cuéntame tu caso y vemos cómo puedo ayudarte a mejorar tu negocio con "
+"datos."
+msgstr ""
+
+#: app/templates/contacto.html:20
+msgid "Nombre"
+msgstr ""
+
+#: app/templates/contacto.html:25
+msgid "Email"
+msgstr ""
+
+#: app/templates/contacto.html:30
+msgid "Empresa"
+msgstr ""
+
+#: app/templates/contacto.html:36
+msgid "Tipo de empresa"
+msgstr ""
+
+#: app/templates/contacto.html:41
+msgid "Tamaño de empresa"
+msgstr ""
+
+#: app/templates/contacto.html:47
+msgid "Servicio principal de interés"
+msgstr ""
+
+#: app/templates/contacto.html:53
+msgid "¿Qué necesitas?"
+msgstr ""
+
+#: app/templates/contacto.html:68
+msgid "¿Qué herramientas utilizas actualmente?"
+msgstr ""
+
+#: app/templates/contacto.html:83
+msgid "Nivel de urgencia"
+msgstr ""
+
+#: app/templates/contacto.html:89
+msgid "Archivo opcional"
+msgstr ""
+
+#: app/templates/contacto.html:95
+msgid "Cuéntame tu caso"
+msgstr ""
+
+#: app/templates/home.html:2
+msgid "Inicio"
+msgstr ""
+
+#: app/templates/home.html:8
+msgid "Consultoría de datos para pequeñas empresas"
+msgstr ""
+
+#: app/templates/home.html:11
+msgid "Ayudo a pequeñas empresas a entender sus datos y mejorar sus decisiones"
+msgstr ""
+
+#: app/templates/home.html:15
+msgid ""
+"Automatización, análisis y dashboards para ahorrar tiempo y tomar "
+"decisiones con más claridad."
+msgstr ""
+
+#: app/templates/home.html:20
+msgid "Solicitar una conversación"
+msgstr ""
+
+#: app/templates/home.html:23
+msgid "Ver servicios"
+msgstr ""
+
+#: app/templates/home.html:31
+msgid "Qué puedo aportar"
+msgstr ""
+
+#: app/templates/home.html:33
+msgid "Visualización clara de ventas, costes e indicadores clave"
+msgstr ""
+
+#: app/templates/home.html:34
+msgid "Automatización de tareas repetitivas para ahorrar tiempo"
+msgstr ""
+
+#: app/templates/home.html:35
+msgid "Análisis de procesos para identificar mejoras prácticas"
+msgstr ""
+
+#: app/templates/home.html:36
+msgid "Un enfoque cercano, claro y adaptado a la realidad de cada negocio"
+msgstr ""
+
+#: app/templates/home.html:48 app/templates/servicios.html:21
+msgid "Dashboards de negocio"
+msgstr ""
+
+#: app/templates/home.html:50
+msgid "Visualiza ventas, costes e indicadores clave en un solo lugar."
+msgstr ""
+
+#: app/templates/home.html:59 app/templates/servicios.html:38
+msgid "Automatización de tareas"
+msgstr ""
+
+#: app/templates/home.html:61
+msgid "Reduce tiempo en tareas manuales y mejora la eficiencia de tus procesos."
+msgstr ""
+
+#: app/templates/home.html:70 app/templates/servicios.html:55
+msgid "Análisis y mejora de procesos"
+msgstr ""
+
+#: app/templates/home.html:72
+msgid ""
+"Identifica oportunidades de mejora y toma decisiones con información "
+"clara."
+msgstr ""
+
+#: app/templates/home.html:82
+msgid "Un enfoque práctico y cercano"
+msgstr ""
+
+#: app/templates/home.html:84
+msgid ""
+"No solo trabajo con datos. También entiendo cómo funcionan los procesos "
+"reales y la operativa diaria de una empresa."
+msgstr ""
+
+#: app/templates/home.html:89
+msgid "Conocer más"
+msgstr ""
+
+#: app/templates/home.html:98
+msgid ""
+"Si quieres explorar cómo organizar mejor tus datos o automatizar tareas, "
+"estaré encantado de escuchar tu caso."
+msgstr ""
+
+#: app/templates/home.html:101 app/templates/servicios.html:135
+msgid "Contactar"
+msgstr ""
+
+#: app/templates/proyectos.html:8
+msgid ""
+"Ejemplos del tipo de trabajo que puedo desarrollar para convertir datos "
+"en herramientas útiles para el negocio."
+msgstr ""
+
+#: app/templates/proyectos.html:16
+msgid "Dashboard comercial"
+msgstr ""
+
+#: app/templates/proyectos.html:18
+msgid ""
+"Visualización de ventas, evolución mensual, clientes y productos clave "
+"para apoyar decisiones comerciales."
+msgstr ""
+
+#: app/templates/proyectos.html:27 app/templates/servicios.html:43
+msgid "Automatización de reportes"
+msgstr ""
+
+#: app/templates/proyectos.html:29
+msgid ""
+"Automatización de tareas repetitivas para reducir tiempo manual y mejorar"
+" la consistencia de la información."
+msgstr ""
+
+#: app/templates/proyectos.html:38
+msgid "Análisis operativo"
+msgstr ""
+
+#: app/templates/proyectos.html:40
+msgid ""
+"Revisión de procesos para detectar cuellos de botella, oportunidades de "
+"mejora e indicadores relevantes."
+msgstr ""
+
+#: app/templates/proyectos.html:49
+msgid ""
+"Próximamente iré incorporando demostraciones más visuales y casos más "
+"detallados."
+msgstr ""
+
+#: app/templates/servicios.html:8
+msgid "Soluciones prácticas para mejorar tu negocio con datos"
+msgstr ""
+
+#: app/templates/servicios.html:12
+msgid ""
+"Trabajo con pequeñas y medianas empresas que quieren entender mejor sus "
+"datos, ahorrar tiempo y tomar decisiones con más claridad."
+msgstr ""
+
+#: app/templates/servicios.html:23
+msgid ""
+"Te ayudo a ver tus ventas, costes y resultados de forma clara en un solo "
+"lugar."
+msgstr ""
+
+#: app/templates/servicios.html:26
+msgid "Visualización de KPIs clave"
+msgstr ""
+
+#: app/templates/servicios.html:27
+msgid "Seguimiento de ventas y evolución"
+msgstr ""
+
+#: app/templates/servicios.html:28
+msgid "Análisis por cliente, producto o zona"
+msgstr ""
+
+#: app/templates/servicios.html:29
+msgid "Cuadros de mando para dirección y operaciones"
+msgstr ""
+
+#: app/templates/servicios.html:40
+msgid "Automatizo tareas repetitivas para que ahorres tiempo y reduzcas errores."
+msgstr ""
+
+#: app/templates/servicios.html:44
+msgid "Procesos en Excel y bases de datos"
+msgstr ""
+
+#: app/templates/servicios.html:45
+msgid "Integración de datos"
+msgstr ""
+
+#: app/templates/servicios.html:46
+msgid "Preparación de datos para análisis y reporting"
+msgstr ""
+
+#: app/templates/servicios.html:57
+msgid ""
+"Analizo cómo funciona tu negocio y te propongo mejoras prácticas para "
+"hacerlo más eficiente."
+msgstr ""
+
+#: app/templates/servicios.html:60
+msgid "Detección de ineficiencias"
+msgstr ""
+
+#: app/templates/servicios.html:61
+msgid "Optimización de procesos"
+msgstr ""
+
+#: app/templates/servicios.html:62
+msgid "Apoyo a la toma de decisiones"
+msgstr ""
+
+#: app/templates/servicios.html:63
+msgid "Análisis operativo orientado a resultados"
+msgstr ""
+
+#: app/templates/servicios.html:72
+msgid "Análisis financiero y control de costes"
+msgstr ""
+
+#: app/templates/servicios.html:74
+msgid ""
+"Transformo datos financieros y operativos en información útil para "
+"controlar costes y rentabilidad."
+msgstr ""
+
+#: app/templates/servicios.html:77
+msgid "Reparto de nóminas por proyecto"
+msgstr ""
+
+#: app/templates/servicios.html:78
+msgid "Control de costes e imputaciones"
+msgstr ""
+
+#: app/templates/servicios.html:79
+msgid "Seguimiento financiero y reporting interno"
+msgstr ""
+
+#: app/templates/servicios.html:80
+msgid "Análisis de rentabilidad por cliente, producto o proyecto"
+msgstr ""
+
+#: app/templates/servicios.html:89
+msgid "Analítica de atención al cliente"
+msgstr ""
+
+#: app/templates/servicios.html:91
+msgid ""
+"Analizo datos de atención al público para entender mejor el servicio, la "
+"carga de trabajo y la satisfacción del cliente."
+msgstr ""
+
+#: app/templates/servicios.html:94
+msgid "Análisis de llamadas de centralita"
+msgstr ""
+
+#: app/templates/servicios.html:95
+msgid "Volumen de llamadas, tiempos y rendimiento"
+msgstr ""
+
+#: app/templates/servicios.html:96
+msgid "Análisis de encuestas y satisfacción"
+msgstr ""
+
+#: app/templates/servicios.html:97
+msgid "Detección de oportunidades de mejora en la atención"
+msgstr ""
+
+#: app/templates/servicios.html:106
+msgid "Analítica comercial y marketing"
+msgstr ""
+
+#: app/templates/servicios.html:108
+msgid ""
+"Mido el rendimiento de campañas y acciones publicitarias para ayudarte a "
+"invertir mejor."
+msgstr ""
+
+#: app/templates/servicios.html:111
+msgid "Análisis de publicidad en apps y banners"
+msgstr ""
+
+#: app/templates/servicios.html:112
+msgid "Seguimiento de resultados y rendimiento"
+msgstr ""
+
+#: app/templates/servicios.html:113
+msgid "Comparativa entre campañas, canales o formatos"
+msgstr ""
+
+#: app/templates/servicios.html:114
+msgid "Apoyo a decisiones comerciales y de marketing"
+msgstr ""
+
+#: app/templates/servicios.html:123
+msgid "Un servicio cercano y adaptado"
+msgstr ""
+
+#: app/templates/servicios.html:125
+msgid ""
+"Cada empresa es distinta. Mi objetivo es ofrecer soluciones simples, "
+"útiles y ajustadas a la realidad de cada negocio, desde dashboards y "
+"reporting hasta análisis financieros, operativos o comerciales."
+msgstr ""
+
+#: app/templates/sobre_mi.html:11
+msgid ""
+"Soy Jorge Vizuete Romero, analista de datos con experiencia en Python, "
+"SQL y Power BI, enfocado en la mejora de procesos y la toma de "
+"decisiones."
+msgstr ""
+
+#: app/templates/sobre_mi.html:15
+msgid ""
+"A lo largo de mi trayectoria he trabajado tanto con datos como en "
+"entornos operativos, lo que me permite entender no solo la información, "
+"sino también cómo funcionan las empresas en el día a día."
+msgstr ""
+
+#: app/templates/sobre_mi.html:19
+msgid ""
+"A través de DATA GEORGE ayudo a pequeñas empresas a organizar sus datos, "
+"automatizar tareas y tomar decisiones más claras y efectivas."
+msgstr ""
+
+#: app/templates/sobre_mi.html:23
+msgid ""
+"Mi objetivo es ofrecer soluciones simples, útiles y adaptadas a la "
+"realidad de cada negocio."
+msgstr ""
+
+#: app/templates/thanks.html:2
+msgid "Gracias"
+msgstr ""
+
+#: app/templates/thanks.html:6
+msgid "Gracias por tu mensaje"
+msgstr ""
+
+#: app/templates/thanks.html:8
+msgid "He recibido tu consulta correctamente y te responderé lo antes posible."
+msgstr ""
+
+#: app/templates/thanks.html:11
+msgid "Volver al inicio"
+msgstr ""
+

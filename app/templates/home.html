@@ -1,0 +1,193 @@
+{% extends "base.html" %}
+
+{% block title %}{{ _("Inicio") }} | DATA GEORGE{% endblock %}
+
+{% block meta_description %}
+{{ _("Consultoría de datos para pequeñas empresas: dashboards, automatización y análisis para mejorar decisiones, ahorrar tiempo y ganar claridad sobre el negocio.") }}
+{% endblock %}
+
+{% block content %}
+
+<!-- HERO -->
+<section class="p-4 p-md-5 bg-white rounded-4 border shadow-sm">
+  <div class="row align-items-center g-4">
+
+    <div class="col-lg-7">
+      <span class="badge text-bg-light border mb-3">
+        {{ _("Consultoría de datos y procesos para pequeñas empresas") }}
+      </span>
+
+      <h1 class="display-5 fw-bold mb-3">
+        {{ _("Entiende tu negocio con datos claros y toma mejores decisiones") }}
+      </h1>
+
+      <p class="lead mb-4">
+        {{ _("Te ayudo a transformar datos dispersos en información útil para controlar ventas, costes y procesos, ahorrar tiempo y mejorar resultados.") }}
+      </p>
+
+      <div class="d-flex flex-wrap gap-2">
+        <a
+          class="btn btn-primary btn-lg"
+          href="{{ url_for('main.contacto', lang=lang) }}"
+        >
+          {{ _("Hablar sobre tu caso") }}
+        </a>
+
+        <a
+          class="btn btn-outline-secondary btn-lg"
+          href="{{ url_for('main.proyectos', lang=lang) }}"
+        >
+          {{ _("Ver un caso práctico") }}
+        </a>
+      </div>
+
+      <div class="row g-3 mt-4">
+
+        <div class="col-sm-4">
+          <div class="border rounded-3 p-3 h-100">
+            <div class="fw-bold">{{ _("Más claridad") }}</div>
+            <div class="text-muted small">
+              {{ _("Entiende qué está pasando en tu negocio sin depender de hojas caóticas.") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="border rounded-3 p-3 h-100">
+            <div class="fw-bold">{{ _("Menos tiempo perdido") }}</div>
+            <div class="text-muted small">
+              {{ _("Automatiza tareas repetitivas y reduce trabajo manual.") }}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-4">
+          <div class="border rounded-3 p-3 h-100">
+            <div class="fw-bold">{{ _("Mejores decisiones") }}</div>
+            <div class="text-muted small">
+              {{ _("Detecta oportunidades, problemas y prioridades de forma práctica.") }}
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="col-lg-5">
+      <div class="card h-100 border-0 shadow-sm bg-light">
+        <div class="card-body p-4">
+          <h2 class="h5 mb-3">{{ _("Qué puedo ayudarte a resolver") }}</h2>
+
+          <ul class="list-unstyled mb-0">
+            <li class="mb-3">📊 {{ _("Saber qué clientes, productos o zonas aportan más valor") }}</li>
+            <li class="mb-3">💰 {{ _("Ver con claridad ventas, costes y márgenes reales") }}</li>
+            <li class="mb-3">⚙️ {{ _("Eliminar tareas manuales que consumen tiempo") }}</li>
+            <li class="mb-3">📈 {{ _("Convertir datos en decisiones útiles para el día a día") }}</li>
+            <li>🤝 {{ _("Trabajar con un enfoque cercano, claro y adaptado a tu realidad") }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- BENEFICIOS DIRECTOS -->
+<section class="mt-4 p-4 p-md-5 bg-white rounded-4 border shadow-sm">
+  <h2 class="h3 mb-4">{{ _("Qué puedes conseguir trabajando conmigo") }}</h2>
+
+  <div class="row g-4">
+
+    <div class="col-md-4">
+      <div class="border rounded-3 p-3 h-100">
+        <div class="fw-bold mb-2">📊 {{ _("Control del negocio") }}</div>
+        <div class="text-muted small">
+          {{ _("Sabrás qué está pasando realmente en ventas, costes y márgenes.") }}
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="border rounded-3 p-3 h-100">
+        <div class="fw-bold mb-2">⏱ {{ _("Ahorro de tiempo") }}</div>
+        <div class="text-muted small">
+          {{ _("Menos Excel manual, menos errores y procesos más eficientes.") }}
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4">
+      <div class="border rounded-3 p-3 h-100">
+        <div class="fw-bold mb-2">📈 {{ _("Mejores decisiones") }}</div>
+        <div class="text-muted small">
+          {{ _("Decisiones basadas en datos reales, no en intuición.") }}
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- BLOQUE CONCEPTO -->
+<section class="mt-4 p-4 p-md-5 bg-light rounded-4 border">
+  <div class="row g-4 align-items-center">
+
+    <div class="col-lg-8">
+      <h2 class="h3 mb-3">{{ _("No se trata solo de tener datos") }}</h2>
+      <p class="lead mb-0">
+        {{ _("Se trata de entender qué significan, dónde está el problema y qué decisiones conviene tomar para mejorar resultados y trabajar con más claridad.") }}
+      </p>
+    </div>
+
+    <div class="col-lg-4 text-lg-end">
+      <a
+        class="btn btn-primary"
+        href="{{ url_for('main.proyectos', lang=lang) }}"
+      >
+        {{ _("Ver ejemplos") }}
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<!-- BLOQUE ENFOQUE -->
+<section class="mt-4 p-4 p-md-5 bg-white rounded-4 border shadow-sm">
+  <div class="row g-4 align-items-center">
+
+    <div class="col-lg-8">
+      <h2 class="h3 mb-3">{{ _("Un enfoque práctico y adaptado a cada negocio") }}</h2>
+      <p class="text-muted mb-0">
+        {{ _("No se trata de complicar con más herramientas o más informes. Se trata de tener información clara, procesos más ordenados y una forma más útil de tomar decisiones.") }}
+      </p>
+    </div>
+
+    <div class="col-lg-4 text-lg-end">
+      <a
+        class="btn btn-outline-secondary"
+        href="{{ url_for('main.servicios', lang=lang) }}"
+      >
+        {{ _("Ver servicios") }}
+      </a>
+    </div>
+
+  </div>
+</section>
+
+<!-- CTA FINAL -->
+<section class="mt-4 p-4 p-md-5 bg-white rounded-4 border shadow-sm text-center">
+  <h2 class="h3 mb-3">{{ _("¿Hablamos sobre tu negocio?") }}</h2>
+
+  <p class="lead mb-4">
+    {{ _("Cuéntame tu caso y vemos de forma clara y práctica cómo puedes mejorar tus datos, procesos y decisiones.") }}
+  </p>
+
+  <a
+    class="btn btn-primary btn-lg"
+    href="{{ url_for('main.contacto', lang=lang) }}"
+  >
+    {{ _("Contactar") }}
+  </a>
+</section>
+
+{% endblock %}

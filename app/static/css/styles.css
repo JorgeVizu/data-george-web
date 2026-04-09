@@ -1,0 +1,432 @@
+/* ========================================
+   DATA GEORGE — ESTILO GLOBAL
+======================================== */
+
+:root {
+  --dg-bg: #f5f7fb;
+  --dg-surface: #ffffff;
+  --dg-surface-soft: #f8fafc;
+  --dg-border: #e5e7eb;
+  --dg-text: #111827;
+  --dg-text-soft: #4b5563;
+  --dg-text-muted: #6b7280;
+  --dg-primary: #1f4fd1;
+  --dg-primary-hover: #173ca3;
+  --dg-shadow-sm: 0 0.125rem 0.5rem rgba(15, 23, 42, 0.05);
+  --dg-shadow-md: 0 0.5rem 1.25rem rgba(15, 23, 42, 0.08);
+  --dg-shadow-lg: 0 1rem 2rem rgba(15, 23, 42, 0.10);
+  --dg-radius-sm: 0.75rem;
+  --dg-radius-md: 1rem;
+  --dg-radius-lg: 1.25rem;
+  --dg-transition: all 0.25s ease;
+}
+
+/* ========================================
+   BASE
+======================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--dg-bg);
+  color: var(--dg-text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+main.container {
+  min-height: 70vh;
+}
+
+/* ========================================
+   TIPOGRAFÍA
+======================================== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--dg-text);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+h1.display-5,
+h1.display-6 {
+  letter-spacing: -0.035em;
+}
+
+p {
+  color: var(--dg-text-soft);
+  margin-bottom: 1rem;
+}
+
+.lead {
+  color: var(--dg-text-soft);
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+.text-muted {
+  color: var(--dg-text-muted) !important;
+}
+
+/* ========================================
+   LINKS
+======================================== */
+
+a {
+  transition: var(--dg-transition);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* ========================================
+   NAVBAR / BRAND
+======================================== */
+
+.navbar {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.navbar-brand {
+  letter-spacing: 0.3px;
+}
+
+.logo-navbar {
+  height: 72px;
+  width: auto;
+  object-fit: contain;
+}
+
+.brand-text-wrap {
+  line-height: 1.05;
+}
+
+.brand-title {
+  font-weight: 800;
+  font-size: 1.12rem;
+  letter-spacing: 0.06em;
+  color: var(--dg-text);
+}
+
+.brand-subtitle {
+  font-size: 0.78rem;
+  color: var(--dg-text-muted);
+  margin-top: 2px;
+  letter-spacing: 0.02em;
+}
+
+.navbar-toggler {
+  border-radius: 0.75rem;
+  border-color: var(--dg-border);
+  padding: 0.45rem 0.65rem;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none;
+  border-color: #cbd5e1;
+}
+
+/* ========================================
+   NAV LINKS
+======================================== */
+
+.nav-link-custom {
+  color: var(--dg-text-soft);
+  font-weight: 600;
+  border-radius: 0.75rem;
+  padding: 0.55rem 0.8rem !important;
+  transition: var(--dg-transition);
+}
+
+.nav-link-custom:hover {
+  color: var(--dg-text);
+  background-color: #f3f4f6;
+}
+
+.nav-link-custom.active {
+  color: var(--dg-text);
+  background-color: #eef2ff;
+}
+
+.dropdown-menu {
+  border: 1px solid var(--dg-border);
+  border-radius: var(--dg-radius-md);
+  box-shadow: var(--dg-shadow-md);
+  padding: 0.5rem;
+}
+
+.dropdown-item {
+  border-radius: 0.65rem;
+  padding: 0.5rem 0.8rem;
+}
+
+.dropdown-item:hover {
+  background-color: #f3f4f6;
+}
+
+/* ========================================
+   BOTONES
+======================================== */
+
+.btn {
+  border-radius: var(--dg-radius-sm);
+  font-weight: 600;
+  transition: var(--dg-transition);
+  box-shadow: none;
+}
+
+.btn:focus,
+.btn:active:focus {
+  box-shadow: none;
+}
+
+.btn-primary {
+  background-color: var(--dg-primary);
+  border-color: var(--dg-primary);
+  padding: 0.72rem 1.15rem;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: var(--dg-primary-hover) !important;
+  border-color: var(--dg-primary-hover) !important;
+  transform: translateY(-1px);
+}
+
+.btn-outline-secondary {
+  border-color: #d1d5db;
+  color: var(--dg-text);
+  padding: 0.72rem 1.15rem;
+  background-color: #ffffff;
+}
+
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus,
+.btn-outline-secondary:active {
+  background-color: #f3f4f6 !important;
+  border-color: #cbd5e1 !important;
+  color: var(--dg-text) !important;
+  transform: translateY(-1px);
+}
+
+.btn-contact {
+  border-radius: 0.85rem;
+  font-weight: 700;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+/* ========================================
+   BADGES
+======================================== */
+
+.badge {
+  border-radius: 999px;
+  font-weight: 600;
+  padding: 0.55rem 0.9rem;
+}
+
+/* ========================================
+   CARDS
+======================================== */
+
+.card {
+  border-radius: var(--dg-radius-lg);
+  border: 1px solid var(--dg-border);
+  background-color: var(--dg-surface);
+  box-shadow: var(--dg-shadow-sm);
+  transition: var(--dg-transition);
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--dg-shadow-md);
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+/* ========================================
+   SECCIONES / BLOQUES
+======================================== */
+
+section {
+  border-radius: var(--dg-radius-lg);
+}
+
+.bg-light {
+  background-color: var(--dg-surface-soft) !important;
+}
+
+.border {
+  border-color: var(--dg-border) !important;
+}
+
+.rounded-4 {
+  border-radius: var(--dg-radius-lg) !important;
+}
+
+.shadow-sm {
+  box-shadow: var(--dg-shadow-sm) !important;
+}
+
+/* ========================================
+   LISTAS / BLOQUES INTERNOS
+======================================== */
+
+ul {
+  padding-left: 1.1rem;
+}
+
+.list-unstyled {
+  padding-left: 0;
+}
+
+.list-unstyled li {
+  line-height: 1.55;
+}
+
+/* ========================================
+   FORMULARIOS
+======================================== */
+
+.form-control,
+.form-select {
+  border-radius: 0.85rem;
+  border: 1px solid #d1d5db;
+  padding: 0.8rem 0.95rem;
+  color: var(--dg-text);
+  background-color: #ffffff;
+  transition: var(--dg-transition);
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: #93c5fd;
+  box-shadow: 0 0 0 0.2rem rgba(31, 79, 209, 0.12);
+}
+
+.form-label {
+  font-weight: 600;
+  color: var(--dg-text);
+  margin-bottom: 0.45rem;
+}
+
+.form-text {
+  color: var(--dg-text-muted);
+}
+
+.form-check-input {
+  border-color: #cbd5e1;
+}
+
+.form-check-input:checked {
+  background-color: var(--dg-primary);
+  border-color: var(--dg-primary);
+}
+
+.invalid-feedback {
+  font-size: 0.88rem;
+}
+
+/* ========================================
+   ALERTAS
+======================================== */
+
+.alert {
+  border-radius: 0.9rem;
+  border: 1px solid transparent;
+  box-shadow: var(--dg-shadow-sm);
+}
+
+/* ========================================
+   FOOTER
+======================================== */
+
+footer {
+  background: #ffffff;
+}
+
+footer .text-muted {
+  font-size: 0.88rem;
+}
+
+/* ========================================
+   UTILIDADES VISUALES
+======================================== */
+
+.border.rounded-3.p-3,
+.border.rounded-3.p-3.h-100 {
+  background-color: #ffffff;
+  transition: var(--dg-transition);
+}
+
+.border.rounded-3.p-3:hover,
+.border.rounded-3.p-3.h-100:hover {
+  border-color: #d1d5db !important;
+  box-shadow: var(--dg-shadow-sm);
+}
+
+/* ========================================
+   RESPONSIVE
+======================================== */
+
+@media (max-width: 991.98px) {
+  .logo-navbar {
+    height: 42px;
+  }
+
+  .brand-title {
+    font-size: 1rem;
+  }
+
+  .brand-subtitle {
+    font-size: 0.72rem;
+  }
+
+  .navbar-collapse {
+    padding-top: 0.75rem;
+  }
+
+  .btn-contact {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  body {
+    font-size: 0.98rem;
+  }
+
+  .display-5 {
+    font-size: 2.15rem;
+  }
+
+  .display-6 {
+    font-size: 1.9rem;
+  }
+
+  .card-body {
+    padding: 1.25rem;
+  }
+
+  .btn-lg {
+    width: 100%;
+  }
+}

@@ -1,0 +1,716 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DATA GEORGE\n"
+"Report-Msgid-Bugs-To: jorgevizi@gmail.com\n"
+"POT-Creation-Date: 2026-04-09 00:00+0200\n"
+"PO-Revision-Date: 2026-04-09 00:00+0200\n"
+"Last-Translator: Jorge Vizuete Romero <jorgevizu@gmail.com>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+msgid "DATA GEORGE | Data & Process Consulting"
+msgstr "DATA GEORGE | Data & Process Consulting"
+
+msgid "Data & Process Consulting"
+msgstr "Data & Process Consulting"
+
+msgid "Consultoría de datos, automatización, BI y mejora de procesos para pequeñas y medianas empresas."
+msgstr "Data consulting, automation, BI, and process improvement for small and medium-sized businesses."
+
+msgid "Navegación principal"
+msgstr "Main navigation"
+
+msgid "Logo de DATA GEORGE"
+msgstr "DATA GEORGE logo"
+
+msgid "Abrir menú de navegación"
+msgstr "Open navigation menu"
+
+msgid "Seleccionar idioma"
+msgstr "Select language"
+
+msgid "Mensajes del sistema"
+msgstr "System messages"
+
+msgid "Servicios"
+msgstr "Services"
+
+msgid "Proyectos"
+msgstr "Projects"
+
+msgid "Sobre mí"
+msgstr "About me"
+
+msgid "Contacto"
+msgstr "Contact"
+
+msgid "ES/EN/FR · Data · BI · Procesos"
+msgstr "ES/EN/FR · Data · BI · Processes"
+
+msgid "Inicio"
+msgstr "Home"
+
+msgid "Consultoría de datos para pequeñas empresas: dashboards, automatización y análisis para mejorar decisiones, ahorrar tiempo y ganar claridad sobre el negocio."
+msgstr "Data consulting for small businesses: dashboards, automation, and analysis to improve decisions, save time, and gain more clarity about the business."
+
+msgid "Consultoría de datos y procesos para pequeñas empresas"
+msgstr "Data and process consulting for small businesses"
+
+msgid "Entiende tu negocio con datos claros y toma mejores decisiones"
+msgstr "Understand your business with clear data and make better decisions"
+
+msgid "Te ayudo a transformar datos dispersos en información útil para controlar ventas, costes y procesos, ahorrar tiempo y mejorar resultados."
+msgstr "I help you turn scattered data into useful information to control sales, costs, and processes, save time, and improve results."
+
+msgid "Hablar sobre tu caso"
+msgstr "Talk about your case"
+
+msgid "Ver un caso práctico"
+msgstr "See a practical case"
+
+msgid "Más claridad"
+msgstr "More clarity"
+
+msgid "Entiende qué está pasando en tu negocio sin depender de hojas caóticas."
+msgstr "Understand what is happening in your business without relying on messy spreadsheets."
+
+msgid "Menos tiempo perdido"
+msgstr "Less wasted time"
+
+msgid "Automatiza tareas repetitivas y reduce trabajo manual."
+msgstr "Automate repetitive tasks and reduce manual work."
+
+msgid "Mejores decisiones"
+msgstr "Better decisions"
+
+msgid "Detecta oportunidades, problemas y prioridades de forma práctica."
+msgstr "Identify opportunities, problems, and priorities in a practical way."
+
+msgid "Qué puedo ayudarte a resolver"
+msgstr "What I can help you solve"
+
+msgid "Saber qué clientes, productos o zonas aportan más valor"
+msgstr "Know which clients, products, or areas create the most value"
+
+msgid "Ver con claridad ventas, costes y márgenes reales"
+msgstr "Clearly see real sales, costs, and margins"
+
+msgid "Eliminar tareas manuales que consumen tiempo"
+msgstr "Eliminate time-consuming manual tasks"
+
+msgid "Convertir datos en decisiones útiles para el día a día"
+msgstr "Turn data into useful day-to-day decisions"
+
+msgid "Trabajar con un enfoque cercano, claro y adaptado a tu realidad"
+msgstr "Work with a close, clear approach tailored to your reality"
+
+msgid "Qué puedes conseguir trabajando conmigo"
+msgstr "What you can achieve by working with me"
+
+msgid "Control del negocio"
+msgstr "Business control"
+
+msgid "Sabrás qué está pasando realmente en ventas, costes y márgenes."
+msgstr "You will know what is really happening in sales, costs, and margins."
+
+msgid "Ahorro de tiempo"
+msgstr "Time savings"
+
+msgid "Menos Excel manual, menos errores y procesos más eficientes."
+msgstr "Less manual Excel work, fewer errors, and more efficient processes."
+
+msgid "Decisiones basadas en datos reales, no en intuición."
+msgstr "Decisions based on real data, not intuition."
+
+msgid "No se trata solo de tener datos"
+msgstr "It is not just about having data"
+
+msgid "Se trata de entender qué significan, dónde está el problema y qué decisiones conviene tomar para mejorar resultados y trabajar con más claridad."
+msgstr "It is about understanding what the data means, where the problem is, and which decisions are worth taking to improve results and work with more clarity."
+
+msgid "Ver ejemplos"
+msgstr "See examples"
+
+msgid "Un enfoque práctico y adaptado a cada negocio"
+msgstr "A practical approach tailored to each business"
+
+msgid "No se trata de complicar con más herramientas o más informes. Se trata de tener información clara, procesos más ordenados y una forma más útil de tomar decisiones."
+msgstr "It is not about making things more complicated with more tools or more reports. It is about having clear information, more organized processes, and a more useful way of making decisions."
+
+msgid "Ver servicios"
+msgstr "View services"
+
+msgid "¿Hablamos sobre tu negocio?"
+msgstr "Shall we talk about your business?"
+
+msgid "Cuéntame tu caso y vemos de forma clara y práctica cómo puedes mejorar tus datos, procesos y decisiones."
+msgstr "Tell me about your case and we will look, in a clear and practical way, at how you can improve your data, processes, and decisions."
+
+msgid "¿Hablamos?"
+msgstr "Shall we talk?"
+
+msgid "Si quieres ordenar mejor tus datos, automatizar tareas o tener más claridad sobre tu negocio, estaré encantado de escuchar tu caso."
+msgstr "If you want to better organize your data, automate tasks, or gain more clarity about your business, I would be glad to hear about your case."
+
+msgid "Contactar"
+msgstr "Contact"
+
+msgid "Servicios de consultoría de datos, automatización, análisis financiero, procesos, atención al cliente y marketing para pequeñas y medianas empresas."
+msgstr "Consulting services in data, automation, financial analysis, processes, customer service, and marketing for small and medium-sized businesses."
+
+msgid "Soluciones prácticas para entender mejor tu negocio y mejorar cómo trabajas"
+msgstr "Practical solutions to better understand your business and improve how you work"
+
+msgid "Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones apoyadas en datos."
+msgstr "I work with small and medium-sized businesses that want more clarity, fewer manual tasks, and better decisions supported by data."
+
+msgid "Dashboards de negocio"
+msgstr "Business dashboards"
+
+msgid "Diseño cuadros de mando para que puedas ver de forma clara lo que está ocurriendo en tu empresa y actuar con más rapidez."
+msgstr "I design dashboards so you can clearly see what is happening in your business and act more quickly."
+
+msgid "Ventas, costes y márgenes en un solo lugar"
+msgstr "Sales, costs, and margins in one place"
+
+msgid "Análisis por cliente, producto, zona o periodo"
+msgstr "Analysis by client, product, area, or period"
+
+msgid "KPIs claros para seguimiento y control"
+msgstr "Clear KPIs for tracking and control"
+
+msgid "Automatización de tareas"
+msgstr "Task automation"
+
+msgid "Automatizo tareas repetitivas para ahorrar tiempo, reducir errores y mejorar la consistencia de la información."
+msgstr "I automate repetitive tasks to save time, reduce errors, and improve information consistency."
+
+msgid "Automatización de reportes y consolidación de datos"
+msgstr "Report automation and data consolidation"
+
+msgid "Procesos con Excel, Python y bases de datos"
+msgstr "Processes with Excel, Python, and databases"
+
+msgid "Integración de información procedente de distintas fuentes"
+msgstr "Integration of information from different sources"
+
+msgid "Análisis y mejora de procesos"
+msgstr "Process analysis and improvement"
+
+msgid "Analizo cómo fluye la información y cómo funciona la operativa para detectar ineficiencias y proponer mejoras útiles."
+msgstr "I analyze how information flows and how operations work in order to detect inefficiencies and propose useful improvements."
+
+msgid "Detección de cuellos de botella e ineficiencias"
+msgstr "Detection of bottlenecks and inefficiencies"
+
+msgid "Apoyo a decisiones con datos claros"
+msgstr "Decision support with clear data"
+
+msgid "Soluciones adaptadas a la realidad del negocio"
+msgstr "Solutions adapted to business reality"
+
+msgid "Análisis financiero y control de costes"
+msgstr "Financial analysis and cost control"
+
+msgid "Transformo datos financieros y operativos en información útil para controlar costes, seguir resultados y entender mejor la rentabilidad."
+msgstr "I turn financial and operational data into useful information to control costs, track results, and better understand profitability."
+
+msgid "Reparto de nóminas por proyecto"
+msgstr "Payroll allocation by project"
+
+msgid "Control de costes e imputaciones"
+msgstr "Cost control and allocations"
+
+msgid "Seguimiento financiero y reporting interno"
+msgstr "Financial tracking and internal reporting"
+
+msgid "Análisis de rentabilidad por cliente, producto o proyecto"
+msgstr "Profitability analysis by client, product, or project"
+
+msgid "Analítica de atención al cliente"
+msgstr "Customer service analytics"
+
+msgid "Analizo datos de atención al cliente para entender mejor la carga de trabajo, la calidad del servicio y las oportunidades de mejora."
+msgstr "I analyze customer service data to better understand workload, service quality, and improvement opportunities."
+
+msgid "Análisis de llamadas de centralita"
+msgstr "Call center analysis"
+
+msgid "Volumen de llamadas, tiempos y rendimiento"
+msgstr "Call volume, times, and performance"
+
+msgid "Análisis de encuestas y satisfacción"
+msgstr "Survey and satisfaction analysis"
+
+msgid "Detección de oportunidades de mejora en la atención"
+msgstr "Identification of service improvement opportunities"
+
+msgid "Analítica comercial y marketing"
+msgstr "Commercial and marketing analytics"
+
+msgid "Analizo campañas y acciones comerciales para ayudarte a entender resultados, comparar canales y tomar mejores decisiones de inversión."
+msgstr "I analyze campaigns and commercial actions to help you understand results, compare channels, and make better investment decisions."
+
+msgid "Análisis de publicidad en apps y banners"
+msgstr "In-app and banner advertising analysis"
+
+msgid "Seguimiento de resultados y rendimiento"
+msgstr "Results and performance tracking"
+
+msgid "Comparativa entre campañas, canales o formatos"
+msgstr "Comparison across campaigns, channels, or formats"
+
+msgid "Apoyo a decisiones comerciales y de marketing"
+msgstr "Support for commercial and marketing decisions"
+
+msgid "Cómo trabajo"
+msgstr "How I work"
+
+msgid "1. Entender tu caso"
+msgstr "1. Understand your case"
+
+msgid "Escucho cómo funciona tu negocio, qué datos tienes y qué necesitas mejorar."
+msgstr "I listen to how your business works, what data you have, and what you need to improve."
+
+msgid "2. Diseñar una solución útil"
+msgstr "2. Design a useful solution"
+
+msgid "Planteo una solución clara, práctica y ajustada a tu realidad, sin complejidad innecesaria."
+msgstr "I propose a clear, practical solution tailored to your reality, without unnecessary complexity."
+
+msgid "3. Convertirlo en valor"
+msgstr "3. Turn it into value"
+
+msgid "El objetivo no es solo ver datos, sino ayudarte a ahorrar tiempo y tomar mejores decisiones."
+msgstr "The goal is not just to see data, but to help you save time and make better decisions."
+
+msgid "Un servicio cercano y adaptado"
+msgstr "A close and tailored service"
+
+msgid "Cada empresa es distinta. Mi objetivo es ofrecer soluciones simples, útiles y ajustadas a la realidad de cada negocio, desde dashboards y automatización hasta análisis financieros, operativos o comerciales."
+msgstr "Every business is different. My goal is to offer simple, useful solutions tailored to the reality of each business, from dashboards and automation to financial, operational, or commercial analysis."
+
+msgid "Cuéntame tu caso y vemos cómo puedo ayudarte a mejorar tu negocio con datos y procesos."
+msgstr "Tell me about your case and let us see how I can help you improve your business with data and processes."
+
+msgid "Proyectos de analítica, dashboards y automatización orientados a mejorar rentabilidad, control y toma de decisiones en pequeñas y medianas empresas."
+msgstr "Analytics, dashboards, and automation projects aimed at improving profitability, control, and decision-making in small and medium-sized businesses."
+
+msgid "Ejemplos del tipo de soluciones que desarrollo para convertir datos en herramientas útiles para el negocio y la toma de decisiones."
+msgstr "Examples of the kind of solutions I develop to turn data into useful tools for business and decision-making."
+
+msgid "Caso práctico"
+msgstr "Practical case"
+
+msgid "Dashboard comercial para una distribuidora B2B"
+msgstr "Commercial dashboard for a B2B distributor"
+
+msgid "Ejemplo de análisis orientado a entender ventas, costes, márgenes, evolución mensual y rentabilidad por cliente y producto."
+msgstr "An example of analysis aimed at understanding sales, costs, margins, monthly evolution, and profitability by client and product."
+
+msgid "Problema"
+msgstr "Problem"
+
+msgid "La empresa tiene datos, pero no una visión clara de qué clientes y productos aportan realmente valor al negocio."
+msgstr "The company has data, but no clear view of which clients and products actually bring value to the business."
+
+msgid "Solución"
+msgstr "Solution"
+
+msgid "Se construye un dashboard con KPIs, evolución temporal, análisis por cliente, producto y zona, y detección de bajo margen."
+msgstr "A dashboard is built with KPIs, time evolution, analysis by client, product, and area, plus low-margin detection."
+
+msgid "Valor para el negocio"
+msgstr "Business value"
+
+msgid "Permite detectar pérdidas ocultas, priorizar acciones comerciales y tomar decisiones con más criterio y rapidez."
+msgstr "It helps detect hidden losses, prioritize commercial actions, and make decisions with more judgment and speed."
+
+msgid "Qué permite analizar"
+msgstr "What it allows you to analyze"
+
+msgid "Ventas, costes y margen"
+msgstr "Sales, costs, and margin"
+
+msgid "Evolución mensual del negocio"
+msgstr "Monthly business evolution"
+
+msgid "Clientes con más volumen y más rentabilidad"
+msgstr "Clients with higher volume and higher profitability"
+
+msgid "Productos rentables y no rentables"
+msgstr "Profitable and unprofitable products"
+
+msgid "Qué aporta este enfoque"
+msgstr "What this approach brings"
+
+msgid "El objetivo no es solo visualizar datos, sino detectar dónde se pierde rentabilidad, qué clientes o productos conviene revisar y qué decisiones pueden generar una mejora real en el negocio."
+msgstr "The goal is not just to visualize data, but to detect where profitability is being lost, which clients or products should be reviewed, and which decisions can generate real improvement in the business."
+
+msgid "¿Quieres aplicar algo así en tu empresa?"
+msgstr "Do you want to apply something like this in your company?"
+
+msgid "Puedo ayudarte a transformar tus datos en una herramienta útil para controlar mejor tu negocio."
+msgstr "I can help you turn your data into a useful tool to better control your business."
+
+msgid "Perfil profesional de Jorge Vizuete Romero: análisis de datos, automatización, BI y mejora de procesos con enfoque práctico y visión de negocio."
+msgstr "Professional profile of Jorge Vizuete Romero: data analysis, automation, BI, and process improvement with a practical approach and business vision."
+
+msgid "Una combinación de análisis de datos, mejora de procesos y experiencia en entornos reales de trabajo."
+msgstr "A combination of data analysis, process improvement, and experience in real working environments."
+
+msgid "Soy Jorge Vizuete Romero y trabajo en consultoría de datos y mejora de procesos, con experiencia en análisis, automatización y entornos operativos."
+msgstr "I am Jorge Vizuete Romero and I work in data consulting and process improvement, with experience in analysis, automation, and operational environments."
+
+msgid "A lo largo de mi trayectoria he trabajado con datos, procesos y herramientas de análisis, pero también en contextos reales de empresa, lo que me permite entender no solo la información, sino también la operativa y las necesidades del día a día."
+msgstr "Throughout my career I have worked with data, processes, and analytical tools, but also in real business contexts, which allows me to understand not only the information, but also day-to-day operations and needs."
+
+msgid "A través de DATA GEORGE ayudo a pequeñas empresas a organizar mejor sus datos, automatizar tareas y convertir la información en decisiones más claras y útiles."
+msgstr "Through DATA GEORGE I help small businesses better organize their data, automate tasks, and turn information into clearer and more useful decisions."
+
+msgid "Mi enfoque busca soluciones simples, prácticas y adaptadas a cada negocio. No se trata de complicar, sino de aportar claridad, eficiencia y utilidad real."
+msgstr "My approach seeks simple, practical solutions adapted to each business. It is not about making things more complicated, but about bringing clarity, efficiency, and real usefulness."
+
+msgid "Tecnologías y herramientas"
+msgstr "Technologies and tools"
+
+msgid "Qué valoro en mi trabajo"
+msgstr "What I value in my work"
+
+msgid "Claridad frente a complejidad innecesaria"
+msgstr "Clarity over unnecessary complexity"
+
+msgid "Soluciones útiles y aplicables"
+msgstr "Useful and applicable solutions"
+
+msgid "Cercanía en el trato"
+msgstr "A close and approachable way of working"
+
+msgid "Visión de negocio además de visión técnica"
+msgstr "Business vision as well as technical vision"
+
+msgid "Cómo entiendo este trabajo"
+msgstr "How I understand this work"
+
+msgid "Creo en una consultoría útil, cercana y orientada a resultados. Mi objetivo no es añadir complejidad, sino ayudarte a entender mejor tu negocio, ahorrar tiempo y tomar decisiones con más criterio."
+msgstr "I believe in useful, approachable, results-oriented consulting. My goal is not to add complexity, but to help you better understand your business, save time, and make better-informed decisions."
+
+msgid "¿Quieres contarme tu caso?"
+msgstr "Would you like to tell me about your case?"
+
+msgid "Estaré encantado de escuchar tus necesidades y ver cómo puedo ayudarte."
+msgstr "I will be glad to hear your needs and see how I can help you."
+
+msgid "Formulario de contacto para hablar sobre dashboards, automatización, análisis y mejora de procesos en tu empresa."
+msgstr "Contact form to talk about dashboards, automation, analysis, and process improvement in your company."
+
+msgid "Cuéntame tu caso y vemos cómo puedo ayudarte a mejorar tu negocio con datos."
+msgstr "Tell me about your case and let us see how I can help improve your business with data."
+
+msgid "Sin compromiso. Solo una primera conversación para entender tu situación y valorar si puedo ayudarte."
+msgstr "No obligation. Just an initial conversation to understand your situation and assess whether I can help you."
+
+msgid "Información básica"
+msgstr "Basic information"
+
+msgid "Nombre"
+msgstr "Name"
+
+msgid "Tu nombre"
+msgstr "Your name"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "tu@email.com"
+msgstr "your@email.com"
+
+msgid "Empresa"
+msgstr "Company"
+
+msgid "Nombre de tu empresa"
+msgstr "Your company name"
+
+msgid "Tipo de empresa"
+msgstr "Business type"
+
+msgid "Tamaño de empresa"
+msgstr "Company size"
+
+msgid "Nivel de urgencia"
+msgstr "Urgency level"
+
+msgid "Qué necesitas"
+msgstr "What you need"
+
+msgid "Servicio principal de interés"
+msgstr "Main service of interest"
+
+msgid "¿Qué necesitas?"
+msgstr "What do you need?"
+
+msgid "¿Qué herramientas utilizas actualmente?"
+msgstr "What tools are you currently using?"
+
+msgid "Archivo opcional"
+msgstr "Optional file"
+
+msgid "Puedes adjuntar un archivo si ayuda a entender mejor tu situación."
+msgstr "You can attach a file if it helps explain your situation better."
+
+msgid "Cuéntame tu caso"
+msgstr "Tell me about your case"
+
+msgid "Describe brevemente qué quieres mejorar, qué problema tienes o qué tipo de ayuda estás buscando."
+msgstr "Briefly describe what you want to improve, what problem you have, or what kind of help you are looking for."
+
+msgid "Responderé lo antes posible con una propuesta clara y realista según tu caso."
+msgstr "I will reply as soon as possible with a clear and realistic proposal based on your case."
+
+msgid "Este campo es obligatorio."
+msgstr "This field is required."
+
+msgid "Máximo 80 caracteres."
+msgstr "Maximum 80 characters."
+
+msgid "Máximo 120 caracteres."
+msgstr "Maximum 120 characters."
+
+msgid "Introduce un email válido."
+msgstr "Enter a valid email address."
+
+msgid "Selecciona una opción"
+msgstr "Select an option"
+
+msgid "Industria"
+msgstr "Industry"
+
+msgid "Retail / Comercio"
+msgstr "Retail / Commerce"
+
+msgid "Logística"
+msgstr "Logistics"
+
+msgid "Tecnología"
+msgstr "Technology"
+
+msgid "Otro"
+msgstr "Other"
+
+msgid "1-10 empleados"
+msgstr "1-10 employees"
+
+msgid "10-50 empleados"
+msgstr "10-50 employees"
+
+msgid "Más de 50 empleados"
+msgstr "More than 50 employees"
+
+msgid "Dashboard de negocio"
+msgstr "Business dashboard"
+
+msgid "Otro / No lo tengo claro"
+msgstr "Other / I am not sure"
+
+msgid "Dashboards / BI"
+msgstr "Dashboards / BI"
+
+msgid "Análisis financiero"
+msgstr "Financial analysis"
+
+msgid "Control de costes"
+msgstr "Cost control"
+
+msgid "Marketing / publicidad"
+msgstr "Marketing / advertising"
+
+msgid "Atención al cliente"
+msgstr "Customer service"
+
+msgid "Procesos / operaciones"
+msgstr "Processes / operations"
+
+msgid "Excel"
+msgstr "Excel"
+
+msgid "ERP / CRM"
+msgstr "ERP / CRM"
+
+msgid "SQL / Base de datos"
+msgstr "SQL / Database"
+
+msgid "Power BI / Tableau / similar"
+msgstr "Power BI / Tableau / similar"
+
+msgid "Procesos manuales"
+msgstr "Manual processes"
+
+msgid "No tengo un sistema claro"
+msgstr "I do not have a clear system"
+
+msgid "Solo estoy explorando opciones"
+msgstr "I am just exploring options"
+
+msgid "Quiero resolverlo en 1-3 meses"
+msgstr "I want to solve it in 1-3 months"
+
+msgid "Es una necesidad urgente"
+msgstr "It is an urgent need"
+
+msgid "Máximo 3000 caracteres."
+msgstr "Maximum 3000 characters."
+
+msgid "Solo se permiten archivos CSV o Excel."
+msgstr "Only CSV or Excel files are allowed."
+
+msgid "El archivo no puede superar 10 MB."
+msgstr "The file cannot exceed 10 MB."
+
+msgid "Enviar solicitud"
+msgstr "Send request"
+
+msgid "Gracias"
+msgstr "Thank you"
+
+msgid "Confirmación de envío del formulario de contacto de DATA GEORGE."
+msgstr "Confirmation of DATA GEORGE contact form submission."
+
+msgid "Gracias por tu mensaje"
+msgstr "Thank you for your message"
+
+msgid "He recibido tu consulta correctamente y te responderé lo antes posible."
+msgstr "I have received your inquiry correctly and will reply as soon as possible."
+
+msgid "Mientras tanto, puedes seguir explorando mis servicios y ejemplos de trabajo."
+msgstr "In the meantime, you can continue exploring my services and work examples."
+
+msgid "Volver al inicio"
+msgstr "Back to home"
+
+msgid "¡Gracias! He recibido tu mensaje y te responderé lo antes posible."
+msgstr "Thank you! I have received your message and will reply as soon as possible."
+
+msgid "Ha ocurrido un problema al enviar el formulario. Inténtalo de nuevo en unos minutos."
+msgstr "There was a problem sending the form. Please try again in a few minutes."
+
+msgid "Vista de ejemplo del dashboard"
+msgstr "Sample dashboard view"
+
+msgid "Aquí puedes incorporar una captura, mockup o imagen de tu dashboard para reforzar visualmente el caso."
+msgstr "Here you can add a screenshot, mockup, or image of your dashboard to visually reinforce the case."
+
+msgid "Ejemplo de dashboard comercial"
+msgstr "Commercial dashboard example"
+
+msgid "Espacio reservado para captura o visual de la demo"
+msgstr "Space reserved for demo screenshot or visual"
+
+msgid "Antes"
+msgstr "Before"
+
+msgid "Después"
+msgstr "After"
+
+msgid "Datos dispersos en múltiples archivos"
+msgstr "Data scattered across multiple files"
+
+msgid "Sin visibilidad clara de márgenes reales"
+msgstr "No clear visibility of real margins"
+
+msgid "Decisiones basadas en intuición"
+msgstr "Decisions based on intuition"
+
+msgid "Visión clara del negocio en un dashboard"
+msgstr "Clear business visibility in one dashboard"
+
+msgid "Identificación de clientes y productos rentables"
+msgstr "Identification of profitable clients and products"
+
+msgid "Decisiones más rápidas y basadas en datos"
+msgstr "Faster, data-driven decisions"
+
+msgid "Impacto en el negocio"
+msgstr "Business impact"
+
+msgid "Claridad"
+msgstr "Clarity"
+
+msgid "Mejor comprensión de resultados y márgenes"
+msgstr "Better understanding of results and margins"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Seguimiento continuo del negocio"
+msgstr "Ongoing business monitoring"
+
+msgid "Velocidad"
+msgstr "Speed"
+
+msgid "Decisiones más rápidas y fundamentadas"
+msgstr "Faster, more informed decisions"
+
+msgid "¿Quieres algo así en tu empresa?"
+msgstr "Would you like something like this in your company?"
+
+msgid "Puedo ayudarte a construir una solución similar adaptada a tu negocio, tus datos y tu forma de trabajar."
+msgstr "I can help you build a similar solution adapted to your business, your data, and the way you work."
+
+msgid "Demo real de un dashboard desarrollado para un entorno empresarial"
+msgstr "Real demo of a dashboard developed for a business environment"
+
+msgid "Ejemplo orientativo. Cada dashboard se adapta a la realidad de cada negocio."
+msgstr "Illustrative example. Each dashboard is adapted to the reality of each business."
+
+msgid "Análisis de rentabilidad"
+msgstr "Profitability analysis"
+
+msgid "Enfoque: datos útiles, lectura clara y decisiones accionables."
+msgstr "Approach: useful data, clear reading, and actionable decisions."
+
+msgid "Demo real de un dashboard desarrollado para un entorno empresarial"
+msgstr "Real demo of a dashboard developed for a business environment"
+
+msgid "Ejemplo orientativo. Cada dashboard se adapta a la realidad de cada negocio."
+msgstr "Illustrative example. Each dashboard is adapted to the reality of each business."
+
+msgid "Problema detectado"
+msgstr "Problem detected"
+
+msgid "Datos existentes, pero sin una visión útil para priorizar decisiones."
+msgstr "Existing data, but without a useful view to prioritize decisions."
+
+msgid "Solución aplicada"
+msgstr "Solution applied"
+
+msgid "Dashboard con KPIs, análisis de rentabilidad y seguimiento operativo."
+msgstr "Dashboard with KPIs, profitability analysis, and operational monitoring."
+
+msgid "Valor generado"
+msgstr "Value generated"
+
+msgid "Más claridad, más control y decisiones más rápidas y fundamentadas."
+msgstr "More clarity, more control, and faster, better-informed decisions."
+
+msgid "Resultados obtenidos en proyectos similares"
+msgstr "Results achieved in similar projects"
+
+msgid "Mejora en identificación de rentabilidad por cliente"
+msgstr "Improvement in identifying profitability by customer"
+
+msgid "Reducción de tiempo en reporting y tareas manuales"
+msgstr "Reduction in reporting time and manual tasks"
+
+msgid "Visibilidad sobre márgenes y resultados del negocio"
+msgstr "Visibility into margins and business results"
+
+msgid "Qué tipo de valor busco generar"
+msgstr "What kind of value I aim to generate"
+
+msgid "Cada proyecto busca convertir datos en una herramienta útil para decidir mejor, ahorrar tiempo y detectar oportunidades reales de mejora en el negocio."
+msgstr "Each project aims to turn data into a useful tool to make better decisions, save time, and detect real business improvement opportunities."

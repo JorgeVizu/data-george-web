@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block title %}{{ _("Gracias") }} | DATA GEORGE{% endblock %}
+
+{% block meta_description %}
+{{ _("Confirmación de envío del formulario de contacto de DATA GEORGE.") }}
+{% endblock %}
+
+{% block content %}
+
+<section class="p-4 p-md-5 bg-light rounded-4 border text-center">
+  <div class="mx-auto" style="max-width: 760px;">
+    <h1 class="display-6 fw-bold">{{ _("Gracias por tu mensaje") }}</h1>
+
+    <p class="lead mt-3 mb-3">
+      {{ _("He recibido tu consulta correctamente y te responderé lo antes posible.") }}
+    </p>
+
+    <p class="text-muted mb-4">
+      {{ _("Mientras tanto, puedes seguir explorando mis servicios y ejemplos de trabajo.") }}
+    </p>
+
+    <div class="d-flex flex-column flex-sm-row justify-content-center gap-2">
+      <a class="btn btn-primary" href="{{ url_for('main.home', lang=lang) }}">
+        {{ _("Volver al inicio") }}
+      </a>
+      <a class="btn btn-outline-secondary" href="{{ url_for('main.servicios', lang=lang) }}">
+        {{ _("Ver servicios") }}
+      </a>
+    </div>
+  </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,186 @@
+{% extends "base.html" %}
+
+{% block title %}{{ _("Contacto") }} | DATA GEORGE{% endblock %}
+
+{% block meta_description %}
+{{ _("Formulario de contacto para hablar sobre dashboards, automatización, análisis y mejora de procesos en tu empresa.") }}
+{% endblock %}
+
+{% block content %}
+
+<section class="p-4 p-md-5 bg-white rounded-4 border shadow-sm mb-4">
+  <div class="row align-items-center g-4">
+    <div class="col-lg-8">
+      <h1 class="display-6 fw-bold mb-3">
+        {{ _("¿Hablamos?") }}
+      </h1>
+      <p class="lead mb-0">
+        {{ _("Cuéntame tu caso y vemos cómo puedo ayudarte a mejorar tu negocio con datos.") }}
+      </p>
+    </div>
+    <div class="col-lg-4 text-lg-end">
+      <div class="text-muted small">
+        {{ _("Sin compromiso. Solo una primera conversación para entender tu situación y valorar si puedo ayudarte.") }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<form method="POST" enctype="multipart/form-data" class="row g-4">
+  {{ form.hidden_tag() }}
+
+  <!-- DATOS BÁSICOS -->
+  <section class="col-12">
+    <div class="card border-0 shadow-sm">
+      <div class="card-body p-4">
+        <h2 class="h5 mb-4">{{ _("Información básica") }}</h2>
+
+        <div class="row g-4">
+          <div class="col-md-6">
+            <label for="{{ form.nombre.id }}" class="form-label">{{ _("Nombre") }}</label>
+            {{ form.nombre(class="form-control" ~ (" is-invalid" if form.nombre.errors else ""), placeholder=_("Tu nombre")) }}
+            {% for error in form.nombre.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-md-6">
+            <label for="{{ form.email.id }}" class="form-label">{{ _("Email") }}</label>
+            {{ form.email(class="form-control" ~ (" is-invalid" if form.email.errors else ""), placeholder=_("tu@email.com")) }}
+            {% for error in form.email.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-md-6">
+            <label for="{{ form.empresa.id }}" class="form-label">{{ _("Empresa") }}</label>
+            {{ form.empresa(class="form-control" ~ (" is-invalid" if form.empresa.errors else ""), placeholder=_("Nombre de tu empresa")) }}
+            {% for error in form.empresa.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-md-6">
+            <label for="{{ form.tipo_empresa.id }}" class="form-label">{{ _("Tipo de empresa") }}</label>
+            {{ form.tipo_empresa(class="form-select" ~ (" is-invalid" if form.tipo_empresa.errors else "")) }}
+            {% for error in form.tipo_empresa.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-md-6">
+            <label for="{{ form.tamano_empresa.id }}" class="form-label">{{ _("Tamaño de empresa") }}</label>
+            {{ form.tamano_empresa(class="form-select" ~ (" is-invalid" if form.tamano_empresa.errors else "")) }}
+            {% for error in form.tamano_empresa.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-md-6">
+            <label for="{{ form.urgencia.id }}" class="form-label">{{ _("Nivel de urgencia") }}</label>
+            {{ form.urgencia(class="form-select" ~ (" is-invalid" if form.urgencia.errors else "")) }}
+            {% for error in form.urgencia.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICIO E INTERÉS -->
+  <section class="col-12">
+    <div class="card border-0 shadow-sm">
+      <div class="card-body p-4">
+        <h2 class="h5 mb-4">{{ _("Qué necesitas") }}</h2>
+
+        <div class="row g-4">
+          <div class="col-12">
+            <label for="{{ form.servicio.id }}" class="form-label">{{ _("Servicio principal de interés") }}</label>
+            {{ form.servicio(class="form-select" ~ (" is-invalid" if form.servicio.errors else "")) }}
+            {% for error in form.servicio.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-12">
+            <label class="form-label fw-semibold">{{ _("¿Qué necesitas?") }}</label>
+            <div class="row g-2">
+              {% for subfield in form.necesidades %}
+                <div class="col-md-4">
+                  <div class="form-check">
+                    {{ subfield(class="form-check-input") }}
+                    <label class="form-check-label" for="{{ subfield.id }}">{{ subfield.label.text }}</label>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+            {% for error in form.necesidades.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-12">
+            <label class="form-label fw-semibold">{{ _("¿Qué herramientas utilizas actualmente?") }}</label>
+            <div class="row g-2">
+              {% for subfield in form.herramientas %}
+                <div class="col-md-4">
+                  <div class="form-check">
+                    {{ subfield(class="form-check-input") }}
+                    <label class="form-check-label" for="{{ subfield.id }}">{{ subfield.label.text }}</label>
+                  </div>
+                </div>
+              {% endfor %}
+            </div>
+            {% for error in form.herramientas.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MENSAJE Y ARCHIVO -->
+  <section class="col-12">
+    <div class="card border-0 shadow-sm">
+      <div class="card-body p-4">
+        <h2 class="h5 mb-4">{{ _("Cuéntame tu caso") }}</h2>
+
+        <div class="row g-4">
+          <div class="col-md-6">
+            <label for="{{ form.archivo.id }}" class="form-label">{{ _("Archivo opcional") }}</label>
+            {{ form.archivo(class="form-control" ~ (" is-invalid" if form.archivo.errors else "")) }}
+            <div class="form-text">
+              {{ _("Puedes adjuntar un archivo si ayuda a entender mejor tu situación.") }}
+            </div>
+            {% for error in form.archivo.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+
+          <div class="col-12">
+            <label for="{{ form.mensaje.id }}" class="form-label">{{ _("Cuéntame tu caso") }}</label>
+            {{ form.mensaje(class="form-control" ~ (" is-invalid" if form.mensaje.errors else ""), rows="6", placeholder=_("Describe brevemente qué quieres mejorar, qué problema tienes o qué tipo de ayuda estás buscando.")) }}
+            {% for error in form.mensaje.errors %}
+              <div class="invalid-feedback d-block">{{ error }}</div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="col-12">
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-md-center gap-3">
+      <p class="text-muted mb-0 small">
+        {{ _("Responderé lo antes posible con una propuesta clara y realista según tu caso.") }}
+      </p>
+      {{ form.submit(class="btn btn-primary btn-lg px-4") }}
+    </div>
+  </section>
+
+</form>
+
+{% endblock %}
