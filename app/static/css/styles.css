@@ -10,8 +10,13 @@
   --dg-text: #111827;
   --dg-text-soft: #4b5563;
   --dg-text-muted: #6b7280;
+
   --dg-primary: #1f4fd1;
   --dg-primary-hover: #173ca3;
+
+  --dg-accent: #27bdb7;
+  --dg-accent-hover: #1fa59f;
+
   --dg-shadow-sm: 0 0.125rem 0.5rem rgba(15, 23, 42, 0.05);
   --dg-shadow-md: 0 0.5rem 1.25rem rgba(15, 23, 42, 0.08);
   --dg-shadow-lg: 0 1rem 2rem rgba(15, 23, 42, 0.10);
@@ -105,7 +110,7 @@ a:hover {
 }
 
 .logo-navbar {
-  height: 72px;
+  height: 232px;
   width: auto;
   object-fit: contain;
 }
@@ -122,10 +127,11 @@ a:hover {
 }
 
 .brand-subtitle {
-  font-size: 0.78rem;
-  color: var(--dg-text-muted);
-  margin-top: 2px;
-  letter-spacing: 0.02em;
+  font-size: 1.1rem;              /* MÁS GRANDE */
+  color: #4b5563;                 /* un pelín más oscuro */
+  margin-top: 4px;
+  letter-spacing: 0.4px;
+  font-weight: 600;               /* más presencia */
 }
 
 .navbar-toggler {
@@ -152,13 +158,13 @@ a:hover {
 }
 
 .nav-link-custom:hover {
-  color: var(--dg-text);
+  color: var(--dg-accent);
   background-color: #f3f4f6;
 }
 
 .nav-link-custom.active {
-  color: var(--dg-text);
-  background-color: #eef2ff;
+  color: var(--dg-accent);
+  background-color: rgba(39, 189, 183, 0.10);
 }
 
 .dropdown-menu {
@@ -194,16 +200,18 @@ a:hover {
 }
 
 .btn-primary {
-  background-color: var(--dg-primary);
-  border-color: var(--dg-primary);
+  background-color: var(--dg-accent);
+  border-color: var(--dg-accent);
+  color: #ffffff;
   padding: 0.72rem 1.15rem;
 }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
-  background-color: var(--dg-primary-hover) !important;
-  border-color: var(--dg-primary-hover) !important;
+  background-color: var(--dg-accent-hover) !important;
+  border-color: var(--dg-accent-hover) !important;
+  color: #ffffff !important;
   transform: translateY(-1px);
 }
 
@@ -256,6 +264,7 @@ a:hover {
 .card:hover {
   transform: translateY(-3px);
   box-shadow: var(--dg-shadow-md);
+  border-color: rgba(39, 189, 183, 0.45);
 }
 
 .card-body {
@@ -318,8 +327,8 @@ ul {
 
 .form-control:focus,
 .form-select:focus {
-  border-color: #93c5fd;
-  box-shadow: 0 0 0 0.2rem rgba(31, 79, 209, 0.12);
+  border-color: rgba(39, 189, 183, 0.65);
+  box-shadow: 0 0 0 0.2rem rgba(39, 189, 183, 0.16);
 }
 
 .form-label {
@@ -337,8 +346,8 @@ ul {
 }
 
 .form-check-input:checked {
-  background-color: var(--dg-primary);
-  border-color: var(--dg-primary);
+  background-color: var(--dg-accent);
+  border-color: var(--dg-accent);
 }
 
 .invalid-feedback {
