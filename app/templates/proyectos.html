@@ -57,7 +57,7 @@
         </div>
       </div>
 
-      <!-- VÍDEO DEMO -->
+            <!-- VÍDEO DEMO -->
       <div class="bg-light border rounded-4 p-4 mb-4">
         <div class="text-center mb-3">
           <div class="fw-bold mb-2">{{ _("Vista de ejemplo del dashboard") }}</div>
@@ -69,18 +69,14 @@
           </div>
         </div>
 
-        <video
-          class="w-100 rounded-4 border shadow-sm"
-          autoplay
-          muted
-          loop
-          playsinline
-          preload="metadata"
-          style="max-height: 620px; background: #000;"
-        >
-          <source src="{{ url_for('static', filename='video/demo-dashboard.mp4') }}" type="video/mp4">
-          {{ _("Tu navegador no soporta vídeo HTML5.") }}
-        </video>
+        <div class="ratio ratio-16x9 rounded-4 overflow-hidden border shadow-sm">
+          <iframe
+            src="https://www.youtube.com/embed/P82gF63kbf4"
+            title="Demo Dashboard Data George"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen>
+          </iframe>
+        </div>
 
         <div class="small text-muted mt-2 text-center">
           {{ _("Ejemplo orientativo. Cada dashboard se adapta a la realidad de cada negocio.") }}
