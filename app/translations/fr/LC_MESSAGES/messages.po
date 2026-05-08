@@ -714,3 +714,42 @@ msgstr "Quel type de valeur je cherche à générer"
 
 msgid "Cada proyecto busca convertir datos en una herramienta útil para decidir mejor, ahorrar tiempo y detectar oportunidades reales de mejora en el negocio."
 msgstr "Chaque projet vise à transformer les données en un outil utile pour mieux décider, gagner du temps et détecter de réelles opportunités d’amélioration de l’activité."
+
+msgid "Servicios de consultoría de datos, automatización, análisis financiero, procesos y apoyo a la toma de decisiones para pequeñas y medianas empresas."
+msgstr "Services de conseil en données, automatisation, analyse financière, processus et aide à la décision pour les petites et moyennes entreprises."
+
+msgid "Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones basadas en datos."
+msgstr "Je travaille avec des petites et moyennes entreprises qui recherchent plus de clarté, moins de tâches manuelles et de meilleures décisions fondées sur les données."
+
+msgid "Diseño cuadros de mando para visualizar con claridad lo que ocurre en tu empresa y actuar con mayor rapidez."
+msgstr "Je conçois des tableaux de bord pour visualiser clairement ce qui se passe dans votre entreprise et agir plus rapidement."
+
+msgid "Analizo la operativa y el flujo de información para detectar ineficiencias y proponer mejoras útiles."
+msgstr "J’analyse les opérations et les flux d’information afin de détecter les inefficacités et proposer des améliorations utiles."
+
+msgid "Transformo datos financieros en información útil para controlar costes y entender mejor la rentabilidad."
+msgstr "Je transforme les données financières en informations utiles pour contrôler les coûts et mieux comprendre la rentabilité."
+
+msgid "Analizo datos de atención al cliente para entender la calidad del servicio y detectar mejoras."
+msgstr "J’analyse les données du service client pour comprendre la qualité du service et détecter des axes d’amélioration."
+
+msgid "Analizo campañas y acciones comerciales para ayudarte a tomar mejores decisiones de inversión."
+msgstr "J’analyse les campagnes et les actions commerciales pour vous aider à prendre de meilleures décisions d’investissement."
+
+msgid "Servicio destacado"
+msgstr "Service mis en avant"
+
+msgid "Soporte en la toma de decisiones"
+msgstr "Aide à la prise de décision"
+
+msgid "No se trata solo de tener datos, sino de utilizarlos de forma continua para mejorar el negocio."
+msgstr "Il ne s’agit pas seulement d’avoir des données, mais de les utiliser en continu pour améliorer l’activité."
+
+msgid "Un acompañamiento continuo para convertir los datos en decisiones que mejoren resultados."
+msgstr "Un accompagnement continu pour transformer les données en décisions qui améliorent les résultats."
+
+msgid "Planteo una solución clara y práctica adaptada a tu realidad."
+msgstr "Je propose une solution claire et pratique adaptée à votre réalité."
+
+msgid "El objetivo es ayudarte a tomar mejores decisiones y mejorar resultados."
+msgstr "L’objectif est de vous aider à prendre de meilleures décisions et à améliorer les résultats."

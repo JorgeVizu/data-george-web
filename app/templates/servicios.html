@@ -3,7 +3,7 @@
 {% block title %}{{ _("Servicios") }} | DATA GEORGE{% endblock %}
 
 {% block meta_description %}
-{{ _("Servicios de consultoría de datos, automatización, análisis financiero, procesos, atención al cliente y marketing para pequeñas y medianas empresas.") }}
+{{ _("Servicios de consultoría de datos, automatización, análisis financiero, procesos y apoyo a la toma de decisiones para pequeñas y medianas empresas.") }}
 {% endblock %}
 
 {% block content %}
@@ -16,7 +16,7 @@
       </h1>
 
       <p class="lead mb-0">
-        {{ _("Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones apoyadas en datos.") }}
+        {{ _("Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones basadas en datos.") }}
       </p>
     </div>
 
@@ -31,18 +31,15 @@
 <section class="mt-4">
   <div class="row g-4">
 
+    <!-- SERVICIOS NORMALES -->
+
     <div class="col-md-6 col-xl-4">
       <article class="card h-100 border-0 shadow-sm">
         <div class="card-body p-4">
           <h2 class="h5 mb-3">📊 {{ _("Dashboards de negocio") }}</h2>
           <p class="text-muted">
-            {{ _("Diseño cuadros de mando para que puedas ver de forma clara lo que está ocurriendo en tu empresa y actuar con más rapidez.") }}
+            {{ _("Diseño cuadros de mando para visualizar con claridad lo que ocurre en tu empresa y actuar con mayor rapidez.") }}
           </p>
-          <ul class="small text-muted mb-0">
-            <li>{{ _("Ventas, costes y márgenes en un solo lugar") }}</li>
-            <li>{{ _("Análisis por cliente, producto, zona o periodo") }}</li>
-            <li>{{ _("KPIs claros para seguimiento y control") }}</li>
-          </ul>
         </div>
       </article>
     </div>
@@ -54,11 +51,6 @@
           <p class="text-muted">
             {{ _("Automatizo tareas repetitivas para ahorrar tiempo, reducir errores y mejorar la consistencia de la información.") }}
           </p>
-          <ul class="small text-muted mb-0">
-            <li>{{ _("Automatización de reportes y consolidación de datos") }}</li>
-            <li>{{ _("Procesos con Excel, Python y bases de datos") }}</li>
-            <li>{{ _("Integración de información procedente de distintas fuentes") }}</li>
-          </ul>
         </div>
       </article>
     </div>
@@ -68,13 +60,8 @@
         <div class="card-body p-4">
           <h2 class="h5 mb-3">📈 {{ _("Análisis y mejora de procesos") }}</h2>
           <p class="text-muted">
-            {{ _("Analizo cómo fluye la información y cómo funciona la operativa para detectar ineficiencias y proponer mejoras útiles.") }}
+            {{ _("Analizo la operativa y el flujo de información para detectar ineficiencias y proponer mejoras útiles.") }}
           </p>
-          <ul class="small text-muted mb-0">
-            <li>{{ _("Detección de cuellos de botella e ineficiencias") }}</li>
-            <li>{{ _("Apoyo a decisiones con datos claros") }}</li>
-            <li>{{ _("Soluciones adaptadas a la realidad del negocio") }}</li>
-          </ul>
         </div>
       </article>
     </div>
@@ -84,14 +71,8 @@
         <div class="card-body p-4">
           <h2 class="h5 mb-3">💶 {{ _("Análisis financiero y control de costes") }}</h2>
           <p class="text-muted">
-            {{ _("Transformo datos financieros y operativos en información útil para controlar costes, seguir resultados y entender mejor la rentabilidad.") }}
+            {{ _("Transformo datos financieros en información útil para controlar costes y entender mejor la rentabilidad.") }}
           </p>
-          <ul class="small text-muted mb-0">
-            <li>{{ _("Reparto de nóminas por proyecto") }}</li>
-            <li>{{ _("Control de costes e imputaciones") }}</li>
-            <li>{{ _("Seguimiento financiero y reporting interno") }}</li>
-            <li>{{ _("Análisis de rentabilidad por cliente, producto o proyecto") }}</li>
-          </ul>
         </div>
       </article>
     </div>
@@ -101,14 +82,8 @@
         <div class="card-body p-4">
           <h2 class="h5 mb-3">🎧 {{ _("Analítica de atención al cliente") }}</h2>
           <p class="text-muted">
-            {{ _("Analizo datos de atención al cliente para entender mejor la carga de trabajo, la calidad del servicio y las oportunidades de mejora.") }}
+            {{ _("Analizo datos de atención al cliente para entender la calidad del servicio y detectar mejoras.") }}
           </p>
-          <ul class="small text-muted mb-0">
-            <li>{{ _("Análisis de llamadas de centralita") }}</li>
-            <li>{{ _("Volumen de llamadas, tiempos y rendimiento") }}</li>
-            <li>{{ _("Análisis de encuestas y satisfacción") }}</li>
-            <li>{{ _("Detección de oportunidades de mejora en la atención") }}</li>
-          </ul>
         </div>
       </article>
     </div>
@@ -118,14 +93,34 @@
         <div class="card-body p-4">
           <h2 class="h5 mb-3">📣 {{ _("Analítica comercial y marketing") }}</h2>
           <p class="text-muted">
-            {{ _("Analizo campañas y acciones comerciales para ayudarte a entender resultados, comparar canales y tomar mejores decisiones de inversión.") }}
+            {{ _("Analizo campañas y acciones comerciales para ayudarte a tomar mejores decisiones de inversión.") }}
           </p>
-          <ul class="small text-muted mb-0">
-            <li>{{ _("Análisis de publicidad en apps y banners") }}</li>
-            <li>{{ _("Seguimiento de resultados y rendimiento") }}</li>
-            <li>{{ _("Comparativa entre campañas, canales o formatos") }}</li>
-            <li>{{ _("Apoyo a decisiones comerciales y de marketing") }}</li>
-          </ul>
+        </div>
+      </article>
+    </div>
+
+    <!-- SERVICIO DESTACADO -->
+
+    <div class="col-md-6 col-xl-4">
+      <article class="card h-100 shadow-sm border-0">
+        <div class="card-body p-4">
+
+          <span class="badge mb-2" style="background-color: #2bb8a6;">
+            {{ _("Servicio destacado") }}
+          </span>
+
+          <h2 class="h5 mb-3" style="color: #2bb8a6; font-weight: 700;">
+            📊 {{ _("Soporte en la toma de decisiones") }}
+          </h2>
+
+          <p class="text-muted">
+            {{ _("No se trata solo de tener datos, sino de utilizarlos de forma continua para mejorar el negocio.") }}
+          </p>
+
+          <p class="small text-muted mb-0">
+            {{ _("Un acompañamiento continuo para convertir los datos en decisiones que mejoren resultados.") }}
+          </p>
+
         </div>
       </article>
     </div>
@@ -151,7 +146,7 @@
       <div class="border rounded-3 p-3 h-100 bg-white">
         <div class="fw-bold mb-2">{{ _("2. Diseñar una solución útil") }}</div>
         <div class="text-muted small">
-          {{ _("Planteo una solución clara, práctica y ajustada a tu realidad, sin complejidad innecesaria.") }}
+          {{ _("Planteo una solución clara y práctica adaptada a tu realidad.") }}
         </div>
       </div>
     </div>
@@ -160,27 +155,11 @@
       <div class="border rounded-3 p-3 h-100 bg-white">
         <div class="fw-bold mb-2">{{ _("3. Convertirlo en valor") }}</div>
         <div class="text-muted small">
-          {{ _("El objetivo no es solo ver datos, sino ayudarte a ahorrar tiempo y tomar mejores decisiones.") }}
+          {{ _("El objetivo es ayudarte a tomar mejores decisiones y mejorar resultados.") }}
         </div>
       </div>
     </div>
 
-  </div>
-</section>
-
-<section class="mt-4 p-4 p-md-5 bg-white rounded-4 border shadow-sm">
-  <div class="row g-4 align-items-center">
-    <div class="col-lg-8">
-      <h2 class="h4 mb-3">{{ _("Un servicio cercano y adaptado") }}</h2>
-      <p class="text-muted mb-0">
-        {{ _("Cada empresa es distinta. Mi objetivo es ofrecer soluciones simples, útiles y ajustadas a la realidad de cada negocio, desde dashboards y automatización hasta análisis financieros, operativos o comerciales.") }}
-      </p>
-    </div>
-    <div class="col-lg-4 text-lg-end">
-      <a class="btn btn-outline-secondary" href="{{ url_for('main.proyectos', lang=lang) }}">
-        {{ _("Ver ejemplos") }}
-      </a>
-    </div>
   </div>
 </section>
 

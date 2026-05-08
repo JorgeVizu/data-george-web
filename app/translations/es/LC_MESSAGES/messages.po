@@ -714,3 +714,42 @@ msgstr "Qué tipo de valor busco generar"
 
 msgid "Cada proyecto busca convertir datos en una herramienta útil para decidir mejor, ahorrar tiempo y detectar oportunidades reales de mejora en el negocio."
 msgstr "Cada proyecto busca convertir datos en una herramienta útil para decidir mejor, ahorrar tiempo y detectar oportunidades reales de mejora en el negocio."
+
+msgid "Servicios de consultoría de datos, automatización, análisis financiero, procesos y apoyo a la toma de decisiones para pequeñas y medianas empresas."
+msgstr "Servicios de consultoría de datos, automatización, análisis financiero, procesos y apoyo a la toma de decisiones para pequeñas y medianas empresas."
+
+msgid "Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones basadas en datos."
+msgstr "Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones basadas en datos."
+
+msgid "Diseño cuadros de mando para visualizar con claridad lo que ocurre en tu empresa y actuar con mayor rapidez."
+msgstr "Diseño cuadros de mando para visualizar con claridad lo que ocurre en tu empresa y actuar con mayor rapidez."
+
+msgid "Analizo la operativa y el flujo de información para detectar ineficiencias y proponer mejoras útiles."
+msgstr "Analizo la operativa y el flujo de información para detectar ineficiencias y proponer mejoras útiles."
+
+msgid "Transformo datos financieros en información útil para controlar costes y entender mejor la rentabilidad."
+msgstr "Transformo datos financieros en información útil para controlar costes y entender mejor la rentabilidad."
+
+msgid "Analizo datos de atención al cliente para entender la calidad del servicio y detectar mejoras."
+msgstr "Analizo datos de atención al cliente para entender la calidad del servicio y detectar mejoras."
+
+msgid "Analizo campañas y acciones comerciales para ayudarte a tomar mejores decisiones de inversión."
+msgstr "Analizo campañas y acciones comerciales para ayudarte a tomar mejores decisiones de inversión."
+
+msgid "Servicio destacado"
+msgstr "Servicio destacado"
+
+msgid "Soporte en la toma de decisiones"
+msgstr "Soporte en la toma de decisiones"
+
+msgid "No se trata solo de tener datos, sino de utilizarlos de forma continua para mejorar el negocio."
+msgstr "No se trata solo de tener datos, sino de utilizarlos de forma continua para mejorar el negocio."
+
+msgid "Un acompañamiento continuo para convertir los datos en decisiones que mejoren resultados."
+msgstr "Un acompañamiento continuo para convertir los datos en decisiones que mejoren resultados."
+
+msgid "Planteo una solución clara y práctica adaptada a tu realidad."
+msgstr "Planteo una solución clara y práctica adaptada a tu realidad."
+
+msgid "El objetivo es ayudarte a tomar mejores decisiones y mejorar resultados."
+msgstr "El objetivo es ayudarte a tomar mejores decisiones y mejorar resultados."

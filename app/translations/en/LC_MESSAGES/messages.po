@@ -714,3 +714,42 @@ msgstr "What kind of value I aim to generate"
 
 msgid "Cada proyecto busca convertir datos en una herramienta útil para decidir mejor, ahorrar tiempo y detectar oportunidades reales de mejora en el negocio."
 msgstr "Each project aims to turn data into a useful tool to make better decisions, save time, and detect real business improvement opportunities."
+
+msgid "Servicios de consultoría de datos, automatización, análisis financiero, procesos y apoyo a la toma de decisiones para pequeñas y medianas empresas."
+msgstr "Data consulting, automation, financial analysis, process improvement, and decision support services for small and medium-sized businesses."
+
+msgid "Trabajo con pequeñas y medianas empresas que quieren más claridad, menos tareas manuales y mejores decisiones basadas en datos."
+msgstr "I work with small and medium-sized businesses that want more clarity, fewer manual tasks, and better data-driven decisions."
+
+msgid "Diseño cuadros de mando para visualizar con claridad lo que ocurre en tu empresa y actuar con mayor rapidez."
+msgstr "I design dashboards to clearly visualize what is happening in your business and act faster."
+
+msgid "Analizo la operativa y el flujo de información para detectar ineficiencias y proponer mejoras útiles."
+msgstr "I analyze operations and information flows to detect inefficiencies and propose useful improvements."
+
+msgid "Transformo datos financieros en información útil para controlar costes y entender mejor la rentabilidad."
+msgstr "I turn financial data into useful information to control costs and better understand profitability."
+
+msgid "Analizo datos de atención al cliente para entender la calidad del servicio y detectar mejoras."
+msgstr "I analyze customer service data to understand service quality and detect improvement opportunities."
+
+msgid "Analizo campañas y acciones comerciales para ayudarte a tomar mejores decisiones de inversión."
+msgstr "I analyze campaigns and commercial actions to help you make better investment decisions."
+
+msgid "Servicio destacado"
+msgstr "Featured service"
+
+msgid "Soporte en la toma de decisiones"
+msgstr "Decision Support"
+
+msgid "No se trata solo de tener datos, sino de utilizarlos de forma continua para mejorar el negocio."
+msgstr "It is not just about having data, but about using it continuously to improve the business."
+
+msgid "Un acompañamiento continuo para convertir los datos en decisiones que mejoren resultados."
+msgstr "Ongoing support to turn data into decisions that improve results."
+
+msgid "Planteo una solución clara y práctica adaptada a tu realidad."
+msgstr "I propose a clear and practical solution adapted to your reality."
+
+msgid "El objetivo es ayudarte a tomar mejores decisiones y mejorar resultados."
+msgstr "The goal is to help you make better decisions and improve results."
